@@ -28,8 +28,7 @@ Work experience
 
 * 2013-2016: European Central Bank, Frankfurt
   * 2014-2015: DG Market Operations, trade
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
