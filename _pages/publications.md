@@ -6,11 +6,10 @@ author_profile: true
 ---
 
 
-# Predictive Density Aggregation: A Model for Global GDP Growth (2020)
+## Predictive Density Aggregation: A Model for Global GDP Growth (2020) [IMF Working paper](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
 With Francesca G Caselli, Francesco Grigoli and Changchun Wang (all IMF)
-[IMF Working paper](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
 
-In this paper we propose a novel  approach to obtain the predictive density of
+*In this paper we propose a novel  approach to obtain the predictive density of
 global  GDP  growth. It  hinges  upon  a  bottom-up probabilistic  model  that
 estimates  and combines  single  countries’ predictive  GDP growth  densities,
 taking into  account cross-country interdependencies.  Specifically,  we model
@@ -23,13 +22,13 @@ assumptions. Importantly, each economy's predictive  density also depends on a
 set  of observable  country-specific factors.   Finally, the  use of  sampling
 techniques allows us to aggregate individual countries’ densities into a world
 aggregate while  preserving the  non-i.i.d.  nature of  the global  GDP growth
-distribution. Out-of-sample metrics confirm the accuracy of our approach.
+distribution. Out-of-sample metrics confirm the accuracy of our approach.*
 
 
-# Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)
+## Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)
 With Giancarlo Corsetti (Cambridge) and Arnaud Mehl (ECB)
 
-Focusing on the  foreign exchange reaction to  macroeconomic announcements, we
+*Focusing on the  foreign exchange reaction to  macroeconomic announcements, we
 show that  fast trading  is positively and  significantly correlated  with the
 entropy of  the distribution of  quoted prices in  reaction to news:  a larger
 share of fast trading increases the degree of diversity of quotes in the order
@@ -45,13 +44,12 @@ estimate that a 10 percent increase  in entropy reduces the negative impact of
 macro news  by over 60% for  effective spreads, against over  40% for realized
 spreads and  price impacts. Our  findings suggest that  high-frequency quoting
 may have desirable  effects on market performance,  specifically stemming from
-enhanced heterogeneity in trading patterns.
+enhanced heterogeneity in trading patterns.*
 
-# Can Countries Manage Their Financial Conditions Amid Globalization? (2018)
+## Can Countries Manage Their Financial Conditions Amid Globalization? (2018) [IMF Working Paper No. 18/15](https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-Their-Financial-Conditions-Amid-Globalization-45581)
 With Nicolas Arregui, Selim Elekdag, Gaston Gelos and Dulani Seneviratne (all IMF)
-[IMF Working Paper No. 18/15](https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-Their-Financial-Conditions-Amid-Globalization-45581)
 
-This  paper  examines the  evolving  importance  of common  global  components
+*This  paper  examines the  evolving  importance  of common  global  components
 underlying  domestic financial  conditions. It  develops financial  conditions
 indices (FCIs) that  make it possible to  compare a large set  of advanced and
 emerging market economies. It finds that a common component, “global financial
@@ -63,14 +61,13 @@ that, on average, countries still appear  to hold considerable sway over their
 own financial conditions—specifically,  through monetary policy. Nevertheless,
 the rapid speed  at which foreign shocks affect  domestic financial conditions
 may also  make it  difficult to  react in  a timely  and effective  manner, if
-deemed necessary.
+deemed necessary.*
 
 
-# Thick vs. Thin-Skinned:  Technology, News, and Financial Market Reaction (2017)
+## Thick vs. Thin-Skinned:  Technology, News, and Financial Market Reaction (2017) [IMF working paper 2017](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810)
 With Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
-[IMF working paper 2017](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810)
 
-We study  the impact  of technology  on the reaction  of financial  markets to
+*We study  the impact of  technology on the  reaction of financial  markets to
 information,  focusing  on  the  foreign exchange  market.   We  contrast  the
 “thin-skinned”  view that  technological improvements  cause markets  to react
 more to new information with the “thick-skinned” view that they react less. We
@@ -80,15 +77,14 @@ Cable connections dampen the response of exchange rates to macroeconomic news,
 consistent with the “thick-skinned” hypothesis. This  is in line with the view
 that  technology  eases  access  to information  and  reduces  trend-following
 behavior. According to our estimates, cable connections reduce the reaction of
-exchange rates to U.S.  monetary policy news by 50 to 80 percent.
+exchange rates to U.S.  monetary policy news by 50 to 80 percent.*
 
 
-# Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market (2016)
+## Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market (2016) [NBER working paper 2016](https://www.nber.org/papers/w21884)
 With Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
-[NBER working paper 2016](https://www.nber.org/papers/w21884), March 2016 NBER
-digest, Vox Column and press coverage: Les Echos.
+March 2016 NBER digest, Vox Column and press coverage: Les Echos.
 
-We  analyze the  impact of  technology on  production and  trade in  services,
+*We  analyze the  impact of  technology on  production and  trade in  services,
 focusing on the foreign exchange  market.  We identify exogenous technological
 changes by  the connection of  countries to submarine fiber-optic  cables used
 for electronic  trading, but which were  not laid for purposes  related to the
@@ -105,15 +101,14 @@ percent  and increases,  in net  terms, the  share of  offshore trading  by 21
 percentage points.   Technology also  has economically  important implications
 for  the  distribution  of  foreign  exchange  transactions  across  financial
 centers, boosting the share in global  turnover of London, the world’s largest
-trading venue, by as much as one-third.
+trading venue, by as much as one-third.*
 
 
-# Understanding Household Savings in China: the Role of the Housing Market & Borrowing Constraints (2013)
+## Understanding Household Savings in China: the Role of the Housing Market & Borrowing Constraints (2013) [MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html)
 With  Matthieu  Bussière (Banque  de  France),  Yannick Kalantzis  (Banque  de
 France) and Terry Sicular (Western Ontario) 
-[MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html)
 
-This  paper  examines  the  role   of  rising  housing  prices  and  borrowing
+*This  paper  examines  the  role   of  rising  housing  prices  and  borrowing
 constraints as determinants of China's  high household saving rate, especially
 among young  households. Using a  life-cycle model  of saving behavior  in the
 presence  of borrowing  constraints,  we show  that  the relationship  between
@@ -125,7 +120,7 @@ depends on the  level of wealth. Employing an empirical  strategy motivated by
 the theoretical model, we analyze a dataset of over six thousand Chinese urban
 households  spanning the  years 1995,  2002 and  2007. We  find evidence  that
 higher  housing  prices  do  in  fact  increase  the  saving  rates  of  young
-households. We also find evidence for the predicted non-linearity.
+households. We also find evidence for the predicted non-linearity.*
 
 
 
