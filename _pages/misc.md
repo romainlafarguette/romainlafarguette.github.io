@@ -13,21 +13,14 @@ not necessarily reflect  the views and opinions of  the International Monetary
 Fund,  nor any  institutions  I  am currently  affiliated  with  or have  been
 affiliated with.***
 
-![center](/images/xkcd-pool.png)
-*What if ? xkcd 029 "Spent Fuel Pool"*
-
 ## Copyrights
 * The  pictures, text and  hyperlinks in this  website are under the Creative
-Commons license Attribution-NonCommercial-NoDerivs CC BY-NC-ND. The comics are
-taken from [xkcd](https://xkcd.com/)
+Commons license Attribution-NonCommercial-NoDerivs CC BY-NC-ND. 
 
 * For any question or suggestion about this website, please contact me via the
 email address in the sidebar or via Github
 
 ## Resources
-
-![middle](/images/xkcd-python.png)
-*xkcd 353 "Python"*
 
 ### Python
 * I  can not  recommend enough  using Python  for econometrics/statistics/data
@@ -91,5 +84,3 @@ for      science,     math,      engineering,      and     data      analysis:
 * [Emacs refcard](http://www.damtp.cam.ac.uk/user/sje30/ess11/resources/emacs-refcard.pdf)
 
 
-![right](/images/xkcd-emacs.png)
-*xkcd 378 "Real Programmers" (note that the Emacs Easter egg C-X M-C M-butterfly really works !!)*
