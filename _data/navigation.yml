@@ -1,13 +1,16 @@
 # main links links
 main:
 
-  - title: "Publications"
+  - title: "Academic Publications"
     url: /publications/
 
-  - title: "Policy Work"
+  - title: "Policy Publications"
     url: /policy/
 
-  - title: "Software"
+  - title: "Country Work"
+    url: /country/
+
+  - title: "Software Development"
     url: /software/
 
   - title: "CV"
