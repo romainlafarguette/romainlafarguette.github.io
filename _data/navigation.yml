@@ -4,11 +4,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Country Missions"
+  - title: "Country Work"
     url: /country/
-
-  - title: "Policy"
-    url: /policy/
 
   - title: "Software"
     url: /software/

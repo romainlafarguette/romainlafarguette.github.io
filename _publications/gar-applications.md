@@ -14,7 +14,7 @@ Excel-based GaR  tool developed  to support  the IMF's  bilateral surveillance
 efforts."
 date: 2019-01-01
 venue: "IMF Working Paper"
-paperurl: "https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-4656https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-465677"
+paperurl: "https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567"
 ---
 
 *The Growth-at-Risk (GaR) framework  links current macrofinancial conditions to
