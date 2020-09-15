@@ -14,11 +14,15 @@ author_profile: true
     * Supported the country team as monetary economist for the Rapid Credit
       Facility (RCF) program
 
-## China: Technical Assistance (2020)
+## China: Technical Assistance (2019)
 * International Monetary Fund, Technical Assistance Mission to the Central Bank
     * Macroprudential Modeling
 
-## Hong-Kong: FSAP (2020)
+## United States: Recruitment Mission (2019)
+* Part of the IMF recruitment for the Economist Program (EP)
+  * Universities of Chicago, Northwestern, Minnesota, Michigan
+
+## Hong-Kong: FSAP (2019-2020)
 * International Monetary Fund, Financial System Stability Assessment Program
     * Liquidity Stress-Testing
     * Systemic Liquidity
@@ -34,7 +38,7 @@ author_profile: true
   * Also supported the Bank of Israel with the implementation of a density
     forecasting model
 
-## Albania: Article IV (2018)
+## Albania: Article IV & Post-Program Monitoring (2018-2019)
 * International Monetary Fund, Post-Program Monitoring Report, Article IV
   * Monetary, financial and real sectors
   * 4 missions
