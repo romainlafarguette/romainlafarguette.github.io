@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* 2016-present: **International Monetary Fund, Economist**
+* **2016-present: International Monetary Fund, Economist**
   * Country missions to: China, Hong-Kong, India, Philippines, Malaysia,
     Singapore, Morocco, Israel, Albania, Peru
   * Article IV, FSAP, Post-Program Monitoring, Technical Assistance missions
@@ -19,7 +19,7 @@ Work experience
   * 2018-2019: European department (EP)
   * 2016-2018: Monetary and Capital Markets department (EP)
 
-* 2013-2016: **European Central Bank, Portfolio Manager and Economist**
+* **2013-2016: European Central Bank, Portfolio Manager and Economist**
   * 2015-2016: DG Financial Stability, Financial Regulations 
   * 2014-2015: DG Market Operations, Foreign Reserves Management, Trading Desk 
   * 2013-2014: DG International Relations, FX modeling 
@@ -32,21 +32,19 @@ Education
 * M.Sc in Applied Mathematics, ENSAE Paris, 2009
 * M.A in Philosophy, Sorbonne University, 2009
 * Undergrad in Mathematics and Philosophy, CPGE Henri IV Paris, 2005
-* Military High-School, Science major, Prytanee National Militaire de La Fleche, 2003
+* Military High-School, Prytanee National Militaire de La Fleche, 2003
 
 Research
 ======
-
 * **Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020)**
   * With Romain Veyrune (IMF)
 
-* **Predictive Density Aggregation: A Model for Global GDP Growth (2020)**
+* **Predictive Density Aggregation: A Model for Global GDP Growth (2020) [IMF Working Paper no 20/78](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)**
   * With Francesca G Caselli, Francesco Grigoli and Changchun Wang (all IMF) 
-  * [IMF Working Paper no 20/78](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
-
-* **Growth at Risk: Concept and Application in IMF Country Surveillance (2019)**
+  
+* **Growth at Risk: Concept and Application in IMF Country Surveillance (2019)
+  [IMF Working Paper no 19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)**
   * With Ananthakrishnan Prasad, Selim Elekdag, Phakawa Jeasakul, Adrian Alter, Alan Xiaochen Feng, Changchun Wang
-  * [IMF Working Paper no 19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
   
 * **Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)**
   * With Giancarlo Corsetti (Cambridge) and Arnaud Mehl (ECB)
