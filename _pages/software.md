@@ -6,6 +6,12 @@ author_profile: true
 sitemap: false
 ---
 
+
+I design open-source Python packages for central banks and economists in
+general. They are freely available through Github. Please cite the companion working
+paper when using the tools. 
+
+
 ### Growth at Risk: Density Forecasting via Quantile Regressions and Parametric Fit
 * [Github repo](https://github.com/IMFGAR/GaR)
 * Python package and Excel tool to estimate the Growth-at-Risk model, which is a
