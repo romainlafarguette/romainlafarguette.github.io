@@ -142,8 +142,7 @@ higher  housing  prices  do  in  fact  increase  the  saving  rates  of  young
 households. We also find evidence for the predicted non-linearity.*
 
 
-
-# Policy Research
+# Policy Publications
 
 ### IMF GFSR: House Price Synchronization: What Role for Financial Factors? (2018)
   * International Monetary Fund, Global Financial Stability Report, Chapter 3

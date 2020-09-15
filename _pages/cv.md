@@ -30,7 +30,8 @@ redirect_from:
 
   * Ph.D in Economics, Peking University, 2017  
   * Ph.D in Economics, Paris School of Economics, 2017  
-  * M.Res, Normalien, ENS Paris Saclay, 2011  
+  * M.Res, Normalien, ENS Paris Saclay, 2011 *(ranked first at France's
+    national competition)*
   * M.Sc in Applied Mathematics, ENSAE Paris, 2009  
   * M.A in Philosophy, Sorbonne University, 2009  
   * Undergrad in Mathematics and Philosophy, CPGE Henri IV Paris, 2005  
@@ -39,7 +40,7 @@ redirect_from:
 ## Academic Research
 
 *See [here](https://romainlafarguette.github.io/research/) for more details,
-including policy research*  
+including policy publications*  
 
 * **Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020)**
   * *With Romain Veyrune*
