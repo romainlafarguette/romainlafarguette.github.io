@@ -14,13 +14,13 @@ redirect_from:
 * **Since 2016: International Monetary Fund, Economist**
   * 2019-    : Monetary and Capital Markets department (EP)
   * 2018-2019: European department (EP)
-  * 2016-2018: Monetary and Capital Markets department (EP)
+  * 2016-2018: Monetary and Capital Markets department (EP)  
 
 
 * **2013-2016: European Central Bank, Portfolio Manager and Economist**
   * 2015-2016: DG Financial Stability, Financial Regulations 
   * 2014-2015: DG Market Operations, Foreign Reserves Management, Trading Desk 
-  * 2013-2014: DG International Relations, FX modeling 
+  * 2013-2014: DG International Relations, FX modeling  
 
 
 *Country missions to: China, Hong-Kong, India, Philippines, Malaysia, Singapore, Morocco, Israel, Albania, Peru. See
