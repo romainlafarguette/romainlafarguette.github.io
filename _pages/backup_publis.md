@@ -5,10 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-
-
-
-
 ### Predictive Density Aggregation: A Model for Global GDP Growth (2020) [IMF Working paper](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
 With Francesca Caselli, Francesco Grigoli and Changchun Wang (all IMF)
 
