@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* 2016-present: International Monetary Fund, Economist
+* 2016-present: **International Monetary Fund, Economist**
   * Country missions to: China, Hong-Kong, India, Philippines, Malaysia,
     Singapore, Morocco, Israel, Albania, Peru
   * Article IV, FSAP, Post-Program Monitoring, Technical Assistance missions
@@ -19,7 +19,7 @@ Work experience
   * 2018-2019: European department (EP)
   * 2016-2018: Monetary and Capital Markets department (EP)
 
-* 2013-2016: European Central Bank, Portfolio Manager and Economist
+* 2013-2016: **European Central Bank, Portfolio Manager and Economist**
   * 2015-2016: DG Financial Stability, Financial Regulations 
   * 2014-2015: DG Market Operations, Foreign Reserves Management, Trading Desk 
   * 2013-2014: DG International Relations, FX modeling 
@@ -31,7 +31,8 @@ Education
 * M.Res, Normalien, ENS Paris Saclay, 2011
 * M.Sc in Applied Mathematics, ENSAE Paris, 2009
 * M.A in Philosophy, Sorbonne University, 2009
-* Undegrad in Mathematics and Philosophy, Lycee Henri IV Paris, 2005
+* Undergrad in Mathematics and Philosophy, CPGE Henri IV Paris, 2005
+* Military High-School, Science major, Prytanee National Militaire de La Fleche, 2003
 
 Research
 ======
@@ -65,7 +66,7 @@ Research
 
 * **Understanding Household Savings in China: the Role of the Housing Market &
   Borrowing Constraints (2013) [MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html)**
-  * With Matthieu Bussi~{((~}re (Banque de France), Yannick Kalantzis (Banque deFrance) and Terry Sicular (Western Ontario) 
+  * With Matthieu Bussiere, Yannick Kalantzis (both Banque de France) and Terry Sicular (Western Ontario) 
   
 
 Skills
