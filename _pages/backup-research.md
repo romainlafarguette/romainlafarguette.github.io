@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Predictive Density Aggregation: A Model for Global GDP Growth (2020) [IMF Working paper](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
+### Predictive Density Aggregation: A Model for Global GDP Growth (2020) [IMF Working Paper](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
 With Francesca Caselli, Francesco Grigoli and Changchun Wang (all IMF)
 
 *In this paper we propose a novel  approach to obtain the predictive density of
@@ -22,6 +22,20 @@ set  of observable  country-specific factors.   Finally, the  use of  sampling
 techniques allows us to aggregate individual countries’ densities into a world
 aggregate while  preserving the  non-i.i.d.  nature of  the global  GDP growth
 distribution. Out-of-sample metrics confirm the accuracy of our approach.*
+
+### Growth-at-Risk: Concept and Application in IMF Country Surveillance (2019)
+[IMF Working Paper](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
+
+*The Growth-at-Risk (GaR) framework links current macrofinancial conditions to
+the distribution of future growth. Its  main strength is its ability to assess
+the entire distribution of future GDP growth (in contrast to point forecasts),
+quantify macrofinancial risks in terms of growth, and monitor the evolution of
+risks to economic activity over time.  By using GaR analysis, policymakers can
+quantify the  likelihood of risk scenarios,  which would serve as  a basis for
+preemptive action. This paper offers practical  guidance on how to conduct GaR
+analysis and  draws lessons from  country case  studies. It also  discusses an
+Excel-based GaR  tool developed  to support  the IMF's  bilateral surveillance
+efforts.*
 
 
 ### Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)
