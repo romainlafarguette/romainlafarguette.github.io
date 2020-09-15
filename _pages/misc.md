@@ -86,3 +86,4 @@ for      science,     math,      engineering,      and     data      analysis:
 
 
 ![test](/images/xkcd-emacs.png)
+*xkcd 378 "Real Programmers" (note that the Emacs Easter egg C-X M-C M-butterfly really works !!)*
