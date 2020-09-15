@@ -3,6 +3,7 @@ layout: archive
 title: "Software development"
 permalink: /software/
 author_profile: true
+sitemap: false
 ---
 
 ### Growth at Risk: Density Forecasting via Quantile Regressions and Parametric Fit

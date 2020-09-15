@@ -3,6 +3,7 @@ layout: archive
 title: "Miscellaneaous"
 permalink: /misc/
 author_profile: true
+sitemap: false
 ---
 
 

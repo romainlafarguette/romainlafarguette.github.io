@@ -3,6 +3,7 @@ permalink: /
 title: "Welcome ! 欢迎 ! "
 excerpt: "About me"
 author_profile: true
+sitemap: false
 redirect_from: 
   - /about/
   - /about.html
