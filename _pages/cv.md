@@ -9,41 +9,73 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* 2016-present: International Monetary Fund, Economist
+  * Country missions to: China, Hong-Kong, India, Philippines, Malaysia,
+    Singapore, Morocco, Israel, Albania, Peru
+  * Article IV, FSAP, Post-Program Monitoring, Technical Assistance missions
+  * 2019-    : Monetary and Capital Markets department (EP)
+  * 2018-2019: European department (EP)
+  * 2016-2018: Monetary and Capital Markets department (EP)
+
+* 2013-2016: European Central Bank, Portfolio Manager and Economist
+  * 2015-2016: DG Financial Stability, Financial Regulations 
+  * 2014-2015: DG Market Operations, Foreign Reserves Management, Trading Desk 
+  * 2013-2014: DG International Relations, FX modeling 
+
 Education
 ======
 * Ph.D in Economics, Peking University, 2017
 * Ph.D in Economics, Paris School of Economics, 2017
 * M.Res, Normalien, ENS Paris Saclay, 2011
-* M.Sc in Statistics and Applied Mathematics, ENSAE Paris, 2009
-* M.A in Philosophy, ENSAE Paris, 2009
+* M.Sc in Applied Mathematics, ENSAE Paris, 2009
+* M.A in Philosophy, Sorbonne University, 2009
+* Undegrad in Mathematics and Philosophy, Lycee Henri IV Paris, 2005
 
-Work experience
+Research
 ======
-* 2016-present: International Monetary Fund, Washington D.C.
-  * Country missions to: China, Hong-Kong, India, Philippines, Malaysia,
-    Singapore, Morocco, Israel, Albania, Peru
-  * 2019-    : Monetary and Capital Markets department (EP)
-  * 2018-2019: European department (EP)
-  * 2016-2018: Monetary and Capital Markets department (EP)
 
-* 2013-2016: European Central Bank, Frankfurt
-  * 2014-2015: DG Market Operations, trade
+* Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020)
+  * With Romain Veyrune (IMF)
 
+* Predictive Density Aggregation: A Model for Global GDP Growth (2020)
+  * With Francesca G Caselli, Francesco Grigoli and Changchun Wang (all IMF) 
+  * [IMF Working Paper no 20/78](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
+
+* Growth at Risk: Concept and Application in IMF Country Surveillance (2019)
+  * With Ananthakrishnan Prasad, Selim Elekdag, Phakawa Jeasakul, Adrian Alter, Alan Xiaochen Feng, Changchun Wang
+  * [IMF Working Paper no 19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
   
+* Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)
+  * With Giancarlo Corsetti (Cambridge) and Arnaud Mehl (ECB)
+
+* Can Countries Manage Their Financial Conditions Amid Globalization? (2018)
+  * With Nicolas Arregui, Selim Elekdag, Gaston Gelos and Dulani Seneviratne (all IMF)
+  * [IMF Working Paper No. 18/15](https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-Their-Financial-Conditions-Amid-Globalization-45581)
+    
+* Thick vs. Thin-Skinned:  Technology, News, and Financial Market Reaction
+  (2017)
+  * With Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
+  * [IMF working Paper No. 17/91](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810)
+
+* Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market (2016)
+  * With Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
+  * [NBER Working Paper No. 21884](https://www.nber.org/papers/w21884) March 2016
+  NBER, digest, Vox Column and press coverage: Les Echos.
+
+* Understanding Household Savings in China: the Role of the Housing Market & Borrowing Constraints (2013)
+  * With Matthieu Bussière (Banque de France), Yannick Kalantzis (Banque deFrance) and Terry Sicular (Western Ontario) 
+  * [MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html)
+
+
 Skills
 ======
 * Fluent in Chinese Mandarin, English, native in French
-* Python, R, Stata, Matlab, LateX
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Python, R, Stata, Matlab, LateX, Git
 
 Software
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* [Growth at Risk: Density Forecasting via Quantile Regressions and Parametric Fit](https://github.com/IMFGAR/GaR)
+* [Distributional GaRCH model to design FX Interventions for Central Banks](https://github.com/romainlafarguette/varfxi)
+* [Quantile Local Projections](https://github.com/romainlafarguette/quantileproj)
