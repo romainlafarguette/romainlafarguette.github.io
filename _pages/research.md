@@ -146,18 +146,20 @@ households. We also find evidence for the predicted non-linearity.*
 # Policy Publications
 
 ### IMF GFSR: House Price Synchronization: What Role for Financial Factors? (2018)
-  * International Monetary Fund, Global Financial Stability Report, Chapter 3
+  * [Global Financial Stability Report, Chapter 3](https://www.elibrary.imf.org/view/IMF082/24893-9781484338292/24893-9781484338292/ch03.xml?language=en#:~:text=Higher%20house%20price%20synchronization%20corresponds,risk%20of%20an%20economic%20downturn.), International Monetary Fund
 
 ### IMF GFSR: Financial Conditions and Growth at Risk (2017)
-  * International Monetary Fund, Global Financial Stability Report, Chapter 3
+  * [Global Financial Stability Report 2017 Fall, Chapter
+    3](https://www.imf.org/en/Publications/GFSR/Issues/2017/09/27/global-financial-stability-report-october-2017),
+    International Monetary Fund
 
 ### IMF GFSR: Are Countries Losing Control of Domestic Financial Conditions? (2017)
-  * International Monetary Fund, Global Financial Stability Report, Chapter 3
+  * [Global Financial Stability Report 2017 Spring, Chapter 3](https://www.imf.org/~/media/Files/Publications/GFSR/2017/April/ch3.ashx), International Monetary Fund
 
 ### ECB Bulletin: High-Frequency Trading, Information and Market Volatility: the Role of High-Frequency Quoting and Dark Pools (2016)
-  * European Central Bank, Macroprudential Bulletin, Chapter 3
+  * [Macroprudential Bulletin 2016, Chapter 3, vol 2](https://econpapers.repec.org/scripts/redir.pf?u=https%3A%2F%2Fwww.ecb.europa.eu%2Fpub%2Fpdf%2Fmpbu%2Fecbmpbu201610.en.pdf%3F57b46eac54fffde1c8a45b39639a151d;h=repec:ecb:ecbmbu:2016:0002:3), European Central Bank
 
-### ECB Bulletin: The Role of Currency Invoicing for the International Transmission of Exchange Rate Movements (2015)
-  * European Central Bank, The International Role of The Euro, Special Feature (with Johannes Grab)
+### ECB IRE: The Role of Currency Invoicing for the International Transmission of Exchange Rate Movements (2015)
+  * [The International Role of The Euro 2015, Special Feature](https://www.ecb.europa.eu/pub/pdf/ire/euro-international-role-201507.en.pdf) (with Johannes Grab), European Central Bank 
 
 
