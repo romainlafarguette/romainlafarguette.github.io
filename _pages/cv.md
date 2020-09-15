@@ -9,33 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
-======
-* **2016-present: International Monetary Fund, Economist**
-  * Country missions to: China, Hong-Kong, India, Philippines, Malaysia,
-    Singapore, Morocco, Israel, Albania, Peru
-  * Article IV, FSAP, Post-Program Monitoring, Technical Assistance missions
-  * 2019-    : Monetary and Capital Markets department (EP)
-  * 2018-2019: European department (EP)
-  * 2016-2018: Monetary and Capital Markets department (EP)
+## Work experience
 
-* **2013-2016: European Central Bank, Portfolio Manager and Economist**
-  * 2015-2016: DG Financial Stability, Financial Regulations 
-  * 2014-2015: DG Market Operations, Foreign Reserves Management, Trading Desk 
-  * 2013-2014: DG International Relations, FX modeling 
+**2016-present: International Monetary Fund, Economist**
+  2019-    : Monetary and Capital Markets department (EP)
+  
+  2018-2019: European department (EP)
+  
+  2016-2018: Monetary and Capital Markets department (EP)
 
-Education
-======
-* Ph.D in Economics, Peking University, 2017
-* Ph.D in Economics, Paris School of Economics, 2017
-* M.Res, Normalien, ENS Paris Saclay, 2011
-* M.Sc in Applied Mathematics, ENSAE Paris, 2009
-* M.A in Philosophy, Sorbonne University, 2009
-* Undergrad in Mathematics and Philosophy, CPGE Henri IV Paris, 2005
-* Military High-School, Prytanee National Militaire de La Fleche, 2003
+**2013-2016: European Central Bank, Portfolio Manager and Economist**
+  2015-2016: DG Financial Stability, Financial Regulations 
+  
+  2014-2015: DG Market Operations, Foreign Reserves Management, Trading Desk 
+  
+  2013-2014: DG International Relations, FX modeling 
 
-Research
-======
+*Country missions to: China, Hong-Kong, India, Philippines, Malaysia,
+Singapore, Morocco, Israel, Albania, Peru. See [here](https://romainlafarguette.github.io/country/) for more information*
+
+
+## Education
+
+Ph.D in Economics, Peking University, 2017
+
+Ph.D in Economics, Paris School of Economics, 2017
+
+M.Res, Normalien, ENS Paris Saclay, 2011
+
+M.Sc in Applied Mathematics, ENSAE Paris, 2009
+
+M.A in Philosophy, Sorbonne University, 2009
+
+Undergrad in Mathematics and Philosophy, CPGE Henri IV Paris, 2005
+
+Military High-School, Prytanee National Militaire de La Fleche, 2003
+
+## Research
+*See [here](https://romainlafarguette.github.io/research/) for details*
+
 * **Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020)**
   * With Romain Veyrune (IMF)
 
@@ -67,19 +79,20 @@ Research
   * With Matthieu Bussiere, Yannick Kalantzis (both Banque de France) and Terry Sicular (Western Ontario) 
   
 
-Skills
-======
-* Languages
-  * Fluent in Chinese Mandarin (6 years in China)
-  * Fluent in English
-  * Native in French
+## Skills
+Languages
+* Fluent in Chinese Mandarin (6 years in China)
+* Fluent in English
+* Native in French
   
-* Programming
-  * Python, R, Matlab, Stata, LateX, Git
+Programming
+* Python, R, Matlab, Stata, LateX, Git
 
 
-Software development (open-source)
-======
+## Software development (open-source)
+
+*See [here](https://romainlafarguette.github.io/software/) for more details*
+
 * [Growth at Risk: Density Forecasting via Quantile Regressions and Parametric Fit](https://github.com/IMFGAR/GaR)
 * [Distributional GaRCH model to design FX Interventions for Central Banks](https://github.com/romainlafarguette/varfxi)
 * [Quantile Local Projections](https://github.com/romainlafarguette/quantileproj)
