@@ -84,3 +84,5 @@ for      science,     math,      engineering,      and     data      analysis:
 
 * [Emacs refcard](http://www.damtp.cam.ac.uk/user/sje30/ess11/resources/emacs-refcard.pdf)
 
+
+![](/images/xkcd-emacs.png)
