@@ -11,13 +11,13 @@ redirect_from:
 Welcome to the website of Romain Lafarguette (罗哲文), Ph.D., economist at the
 International Monetary Fund (IMF) in Washington DC. 
 
-I work for the Monetary and Capital  Markets Department of the IMF. My work is
+I work for the Monetary and Capital Markets Department of the IMF. My work is
 divided between:
-    1. [Academic research]()
-    2. [IMF country missions]()
-    3. [Software development for central banks and economists]()
+1. [Academic research](https://romainlafarguette.github.io/research/)
+2. [IMF country missions](https://romainlafarguette.github.io/country/)
+3. [Software development for central banks and economists](https://romainlafarguette.github.io/software/)
 
-My main research interests lie in the fields of monetary and financial
+My  main research  interests  lie  in the  fields  of  monetary and  financial
 economics with a strong focus on financial econometrics.
 
 I have been recently working on:
