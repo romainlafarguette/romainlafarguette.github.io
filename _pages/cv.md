@@ -58,15 +58,15 @@ Research
   (2017) [IMF working Paper No. 17/91](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810)**
   * With Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
 
-* Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market (2016)
+* **Cables, Sharks and Servers: Technology and the Geography of the Foreign
+  Exchange Market (2016) [NBER Working Paper No. 21884](https://www.nber.org/papers/w21884)**
   * With Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
-  * [NBER Working Paper No. 21884](https://www.nber.org/papers/w21884) March 2016
-  NBER, digest, Vox Column and press coverage: Les Echos.
+  * March 2016 NBER, digest, Vox Column and press coverage: Les Echos.
 
-* Understanding Household Savings in China: the Role of the Housing Market & Borrowing Constraints (2013)
+* **Understanding Household Savings in China: the Role of the Housing Market &
+  Borrowing Constraints (2013) [MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html)**
   * With Matthieu Bussi~{((~}re (Banque de France), Yannick Kalantzis (Banque deFrance) and Terry Sicular (Western Ontario) 
-  * [MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html)
-
+  
 
 Skills
 ======
@@ -74,8 +74,10 @@ Skills
   * Fluent in Chinese Mandarin (6 years in China)
   * Fluent in English
   * Native in French
+  
 * Programming
   * Python, R, Matlab, Stata, LateX, Git
+
 
 Software development (open-source)
 ======
