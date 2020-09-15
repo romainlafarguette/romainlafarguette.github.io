@@ -9,7 +9,7 @@ author_profile: true
 * Course for the South East Asian Central Banks (SEACEN) Research and Training
 Centre
   * [Slides: theory](https://github.com/romainlafarguette/romainlafarguette.github.io/blob/master/files/GaR_SEACEN_Theory.pdf)
-  * [Slides: application](/files/GaR_SEACEN_Applications/)
+  * [Slides: application](https://github.com/romainlafarguette/romainlafarguette.github.io/blob/master/files/GaR_SEACEN_Applications.pdf)
 
 
 ### Clinic on Growth-at-Risk and Density Forecasting at the IMF (2019)
