@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Growth at Risk: Density Forecasting via Quantile Regressions and Parametric Fit
-* [Github link](https://github.com/IMFGAR/GaR)
+* [Github repo](https://github.com/IMFGAR/GaR)
 * Python package and Excel tool to estimate the Growth-at-Risk model, which is a
   density forecasting model based on quantile regressions and parametric fit
 
@@ -14,7 +14,7 @@ author_profile: true
     Adrian et al. (2019) *Vulnerable Growth*, American Economic Review 
 
 ### Distributional GaRCH model to design VaR-based FX Interventions for Central Banks
-* [Github link](https://github.com/romainlafarguette/varfxi)
+* [Github repo](https://github.com/romainlafarguette/varfxi)
 * Python module to estimate conditional densities from a GaRCH model and design
   VaR-based intervention FX interventions areas for central banks
   
@@ -28,7 +28,7 @@ author_profile: true
   Working Paper
 
 ### Quantile Local Projections
-* [Github link](https://github.com/romainlafarguette/quantileproj)  
+* [Github repo](https://github.com/romainlafarguette/quantileproj)  
 * Python module to estimate quantile local projections, and produce useful
   outputs for economists
   
