@@ -16,7 +16,7 @@ author_profile: true
 
 ### China: Technical Assistance (2019)
 * International Monetary Fund, Technical Assistance Mission to the Central Bank 
-  * Macroprudential Modeling
+  * Financial Modeling
 
 ### United States: Recruitment Mission (2019)
 * Part of the IMF recruitment for the Economist Program (EP) 
