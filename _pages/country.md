@@ -6,17 +6,18 @@ author_profile: true
 ---
 
 ### Morocco: Technical Assistance (2020)
-* International Monetary Fund, Technical Assistance Mission to the Central Bank 
-  * Foreign Exchange Interventions
+* International Monetary Fund, technical assistance mission to the Bank Al-Maghrib 
+  * Foreign exchange interventions
 
 ### Democratic Republic of Congo: IMF Program Negotiations (2020)
-* International Monetary Fund, Program Negotiations 
+* International Monetary Fund, program negotiations 
   * Supported the country team as monetary economist for the Rapid Credit
     Facility (RCF) program
 
 ### China: Technical Assistance (2019)
-* International Monetary Fund, Technical Assistance Mission to the Central Bank 
-  * Financial Modeling
+* International Monetary Fund, technical assistance mission to the People's
+    Bank of China 
+  * Financial modeling
 
 ### United States: IMF Recruitment Mission (2019)
 * Part of the IMF recruitment for the Economist Program (EP) 
@@ -24,12 +25,12 @@ author_profile: true
 
 ### Hong-Kong: IMF FSAP (2019-2020)
 * International Monetary Fund, Financial System Stability Assessment Program 
-  * Liquidity Stress-Testing
-  * Systemic Liquidity
+  * Liquidity stress-resting
+  * Central bank operations and systemic liquidity management
 
 ### India, Philippines, Malaysia, Singapore: Technical Outreach (2019)
-* International Monetary Fund, Technical Outreach
-  * Technical outreach on the IMF Growth-at-Risk model to central banks in
+* International Monetary Fund, technical outreach
+  * Outreach about the IMF Growth-at-Risk model to central banks in
     the region and the Asian Development Bank
 
 ### Israel: IMF Article IV (2019)
@@ -41,7 +42,7 @@ author_profile: true
 ### Albania: IMF Article IV & Post-Program Monitoring (2018-2019)
 * International Monetary Fund, Post-Program Monitoring Report, Article IV
   * Monetary, financial and real sectors
-  * 4 missions
+  * Four missions
 
 ### Peru: IMF FSAP (2018)
 * International Monetary Fund, Financial System Stability Assessment Program
@@ -51,5 +52,5 @@ author_profile: true
 
 ### China: Negotiations with the PBoC in Beijing and Shanghai (2015)
 * European Central Bank, DG-Market Operations
-  * Negotiations to acquire RMB for the FX reserves of the Eurosystem
+  * Negotiations with the People's Bank of China to acquire RMB for the FX reserves of the Eurosystem
     

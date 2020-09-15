@@ -12,10 +12,11 @@ general. They are freely available through Github. Please cite the companion wor
 paper when using the tools. 
 
 
-### Growth at Risk: Density Forecasting via Quantile Regressions and Parametric Fit
+### Growth at Risk: Density Forecasting via Quantile Regressions and Parametric Fit (with Changchun Wang)
 * [Github repo](https://github.com/IMFGAR/GaR)
 * Python package and Excel tool to estimate the Growth-at-Risk model, which is a
-  density forecasting model based on quantile regressions and parametric fit
+  density forecasting model based on quantile regressions and parametric
+  fit. Developped with Changchun Wang (also at the IMF)
 
     * Developped at the International Monetary Fund, from the seminal paper of
     Adrian et al. (2019) *Vulnerable Growth*, American Economic Review. I have
