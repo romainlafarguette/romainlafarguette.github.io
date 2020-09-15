@@ -2,17 +2,21 @@
 main:
 
   - title: "Research"
-    url: /publications/
+    url: /research/
+
+  - title: "Missions"
+    url: /country/
 
   - title: "Policy"
     url: /policy/
-
-  - title: "Country Work"
-    url: /country/
 
   - title: "Software"
     url: /software/
 
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Misc"
+    url: /misc/
+
+

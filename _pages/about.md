@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the Webpage of Romain Lafarguette"
+title: "Welcome ! 欢迎 ! "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Welcome ! 欢迎 !
-
 Welcome to the website of Romain Lafarguette (罗哲文), Ph.D., economist at the
 International Monetary Fund (IMF) in Washington DC. 
 
-My  main research  interests  lie  in the  fields  of  monetary and  financial
-economics with a focus on financial econometrics.
+I work for the Monetary and Capital  Markets Department of the IMF. My work is
+divided between:
+    1. [Academic research]()
+    2. [IMF country missions]()
+    3. [Software development for central banks and economists]()
 
-Currently, my research focuses on:
+My main research interests lie in the fields of monetary and financial
+economics with a strong focus on financial econometrics.
+
+I have been recently working on:
 - Monetary Policy and Central Bank Operations
 - Density Forecasting and Forecast Evaluation
 - Financial Stability and Macro-Financial Risk Modeling
