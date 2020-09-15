@@ -14,8 +14,7 @@ redirect_from:
 * **Since 2016: International Monetary Fund, Economist**
   * 2019-    : Monetary and Capital Markets department
   * 2018-2019: European department (EP)
-  * 2016-2018: Monetary and Capital Markets department (EP)  
-
+  * 2016-2018: Monetary and Capital Markets department (EP)
 &nbsp;
 
 * **2013-2016: European Central Bank, Portfolio Manager and Economist**
