@@ -65,17 +65,38 @@ Research
   NBER, digest, Vox Column and press coverage: Les Echos.
 
 * Understanding Household Savings in China: the Role of the Housing Market & Borrowing Constraints (2013)
-  * With Matthieu Bussière (Banque de France), Yannick Kalantzis (Banque deFrance) and Terry Sicular (Western Ontario) 
+  * With Matthieu Bussi~{((~}re (Banque de France), Yannick Kalantzis (Banque deFrance) and Terry Sicular (Western Ontario) 
   * [MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html)
 
 
 Skills
 ======
-* Fluent in Chinese Mandarin, English, native in French
-* Python, R, Stata, Matlab, LateX, Git
+* Languages
+  * Fluent in Chinese Mandarin (6 years in China)
+  * Fluent in English
+  * Native in French
+* Programming
+  * Python, R, Matlab, Stata, LateX, Git
 
-Software
+Software development (open-source)
 ======
 * [Growth at Risk: Density Forecasting via Quantile Regressions and Parametric Fit](https://github.com/IMFGAR/GaR)
 * [Distributional GaRCH model to design FX Interventions for Central Banks](https://github.com/romainlafarguette/varfxi)
 * [Quantile Local Projections](https://github.com/romainlafarguette/quantileproj)
+
+
+Teaching
+======
+* Forecasting with Quantile Regressions (2020)
+  * Course for the South East Asian Central Banks (SEACEN) Research and Training Centre 
+
+* Clinic on Growth-at-Risk and Density Forecasting at the IMF (2019)
+  * Course for the IMF Institute Capacity and Development
+
+* Introduction to Python for IMF Economists (2019)
+  * European Department
+
+* Linear and Non-Linear Econometrics, Statistics, Macroeconomics (2010-2012)
+  * ENSAE and Sciences Po Paris
+
+

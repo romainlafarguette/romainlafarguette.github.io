@@ -84,7 +84,7 @@ author:
   avatar           : "cyrano.jpg"
   bio              : "Economist at the International Monetary Fund"
   location         : "Washington D.C."
-  employer         : "International Monetary Fund"
+  employer         : "IMF"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "rlafarguette@imf.org"
@@ -256,7 +256,6 @@ permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
