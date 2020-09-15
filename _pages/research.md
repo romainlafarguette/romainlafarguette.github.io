@@ -7,16 +7,18 @@ author_profile: true
 
 # Academic Research
 
-### Predictive Density Aggregation: A Model for Global GDP Growth (2020) [IMF Working Paper](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
-With Francesca Caselli, Francesco Grigoli and Changchun Wang (all IMF)
+### Predictive Density Aggregation: A Model for Global GDP Growth (2020) 
+[IMF Working
+Paper](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
+with Francesca Caselli, Francesco Grigoli and Changchun Wang (all IMF)
 
-*In this paper we propose a novel  approach to obtain the predictive density of
-global  GDP  growth. It  hinges  upon  a  bottom-up probabilistic  model  that
-estimates  and combines  single  countries’ predictive  GDP growth  densities,
-taking into  account cross-country interdependencies.  Specifically,  we model
+*We propose  a novel approach to  obtain the predictive density  of global GDP
+growth.  It hinges  upon a  bottom-up probabilistic  model that  estimates and
+combines  single  countries’  predictive  GDP growth  densities,  taking  into
+account    cross-country    interdependencies.    Specifically,    we    model
 non-parametrically  the contemporaneous  interdependencies  across the  United
 States, the euro  area, and China via a conditional  kernel density estimation
-of a  joint distribution.  Then, we  characterize the  potential amplification
+of a  joint distribution.  Then,  we characterize the  potential amplification
 effects stemming  from other large  economies in each region—also  with kernel
 density estimations—and the  reaction of all other  economies with para-metric
 assumptions. Importantly, each economy's predictive  density also depends on a
@@ -61,8 +63,10 @@ spreads and  price impacts. Our  findings suggest that  high-frequency quoting
 may have desirable  effects on market performance,  specifically stemming from
 enhanced heterogeneity in trading patterns.*
 
-### Can Countries Manage Their Financial Conditions Amid Globalization? (2018) [IMF Working Paper No. 18/15](https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-Their-Financial-Conditions-Amid-Globalization-45581)
-With Nicolas Arregui, Selim Elekdag, Gaston Gelos and Dulani Seneviratne (all IMF)
+### Can Countries Manage Their Financial Conditions Amid Globalization? (2018) 
+[IMF Working Paper
+No. 18/15](https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-Their-Financial-Conditions-Amid-Globalization-45581)
+with Nicolas Arregui, Selim Elekdag, Gaston Gelos and Dulani Seneviratne (all IMF)
 
 *This  paper  examines the  evolving  importance  of common  global  components
 underlying  domestic financial  conditions. It  develops financial  conditions
@@ -79,8 +83,11 @@ may also  make it  difficult to  react in  a timely  and effective  manner, if
 deemed necessary.*
 
 
-### Thick vs. Thin-Skinned:  Technology, News, and Financial Market Reaction (2017) [IMF working paper 2017](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810)
-With Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
+### Thick vs. Thin-Skinned:  Technology, News, and Financial Market Reaction
+(2017) 
+[IMF working paper
+2017](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810)
+with Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
 
 *We study  the impact of  technology on the  reaction of financial  markets to
 information,  focusing  on  the  foreign exchange  market.   We  contrast  the
@@ -95,8 +102,10 @@ behavior. According to our estimates, cable connections reduce the reaction of
 exchange rates to U.S.  monetary policy news by 50 to 80 percent.*
 
 
-### Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market (2016) [NBER working paper 2016](https://www.nber.org/papers/w21884)
-With Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
+### Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market (2016) 
+[NBER working paper 2016](https://www.nber.org/papers/w21884) with Barry
+Eichengreen (Berkeley) and Arnaud Mehl (ECB)
+
 March 2016 NBER digest, Vox Column and press coverage: Les Echos.
 
 *We  analyze the  impact of  technology on  production and  trade in  services,
@@ -119,8 +128,10 @@ centers, boosting the share in global  turnover of London, the world’s largest
 trading venue, by as much as one-third.*
 
 
-### Understanding Household Savings in China: the Role of the Housing Market & Borrowing Constraints (2013) [MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html)
-With  Matthieu  Bussière (Banque  de  France),  Yannick Kalantzis  (Banque  de
+### Understanding Household Savings in China: the Role of the Housing Market &
+Borrowing Constraints (2013) 
+
+[MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html) with Matthieu Bussière (Banque de France), Yannick Kalantzis (Banque de
 France) and Terry Sicular (Western Ontario) 
 
 *This  paper  examines  the  role   of  rising  housing  prices  and  borrowing
