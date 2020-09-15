@@ -7,16 +7,16 @@ author_profile: true
 
 ### Morocco: Technical Assistance (2020)
 International Monetary Fund, Technical Assistance Mission to the Central Bank  
-    * Foreign Exchange Interventions
+  * Foreign Exchange Interventions
 
 ### Democratic Republic of Congo: Program Negotiations (2020)
 International Monetary Fund, Program Negotiations  
-    * Supported the country team as monetary economist for the Rapid Credit
-      Facility (RCF) program
+  * Supported the country team as monetary economist for the Rapid Credit
+    Facility (RCF) program
 
 ### China: Technical Assistance (2019)
 International Monetary Fund, Technical Assistance Mission to the Central Bank  
-    * Macroprudential Modeling
+  * Macroprudential Modeling
 
 ### United States: Recruitment Mission (2019)
 Part of the IMF recruitment for the Economist Program (EP)  
@@ -24,13 +24,13 @@ Part of the IMF recruitment for the Economist Program (EP)
 
 ### Hong-Kong: FSAP (2019-2020)
 International Monetary Fund, Financial System Stability Assessment Program  
-    * Liquidity Stress-Testing
-    * Systemic Liquidity
+  * Liquidity Stress-Testing
+  * Systemic Liquidity
 
 ### India, Philippines, Malaysia, Singapore: Technical Outreach (2019)
 International Monetary Fund, Technical Outreach  
-    * Technical outreach on the IMF Growth-at-Risk model to central banks in
-      the region and the Asian Development Bank
+  * Technical outreach on the IMF Growth-at-Risk model to central banks in
+    the region and the Asian Development Bank
 
 ### Israel: Article IV (2019)
 International Monetary Fund, Article IV  
@@ -45,11 +45,11 @@ International Monetary Fund, Post-Program Monitoring Report, Article IV
 
 ### Peru: FSAP (2018)
 International Monetary Fund, Financial System Stability Assessment Program  
-    * Using Growth-at-Risk for Macrofinancial Analysis and Forecasting. Application on Peru 
-    * Liquidity Management in Peruvian Money Markets: A Financial Stability
+  * Using Growth-at-Risk for Macrofinancial Analysis and Forecasting. Application on Peru 
+  * Liquidity Management in Peruvian Money Markets: A Financial Stability
       Perspective 
 
 ### China: Negotiations with the PBoC in Beijing and Shanghai (2015)
 European Central Bank, DG-Market Operations  
-    * Negotiations to acquire RMB for the FX reserves of the Eurosystem
+  * Negotiations to acquire RMB for the FX reserves of the Eurosystem
     
