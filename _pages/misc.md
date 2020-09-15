@@ -13,7 +13,7 @@ not necessarily reflect  the views and opinions of  the International Monetary
 Fund,  nor any  institutions  I  am currently  affiliated  with  or have  been
 affiliated with.***
 
-![](/images/xkcd-pool.png)
+![center](/images/xkcd-pool.png)
 *What if ? xkcd 029 "Spent Fuel Pool"*
 
 ## Copyrights
@@ -26,7 +26,7 @@ email address in the sidebar or via Github
 
 ## Resources
 
-![](/images/xkcd-python.png)
+![middle](/images/xkcd-python.png)
 *xkcd 353 "Python"*
 
 ### Python
@@ -91,5 +91,5 @@ for      science,     math,      engineering,      and     data      analysis:
 * [Emacs refcard](http://www.damtp.cam.ac.uk/user/sje30/ess11/resources/emacs-refcard.pdf)
 
 
-![](/images/xkcd-emacs.png)
+![right](/images/xkcd-emacs.png)
 *xkcd 378 "Real Programmers" (note that the Emacs Easter egg C-X M-C M-butterfly really works !!)*
