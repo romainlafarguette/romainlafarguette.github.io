@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -36,28 +36,27 @@ Education
 Research
 ======
 
-* Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020)
+* **Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020)**
   * With Romain Veyrune (IMF)
 
-* Predictive Density Aggregation: A Model for Global GDP Growth (2020)
+* **Predictive Density Aggregation: A Model for Global GDP Growth (2020)**
   * With Francesca G Caselli, Francesco Grigoli and Changchun Wang (all IMF) 
   * [IMF Working Paper no 20/78](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
 
-* Growth at Risk: Concept and Application in IMF Country Surveillance (2019)
+* **Growth at Risk: Concept and Application in IMF Country Surveillance (2019)**
   * With Ananthakrishnan Prasad, Selim Elekdag, Phakawa Jeasakul, Adrian Alter, Alan Xiaochen Feng, Changchun Wang
   * [IMF Working Paper no 19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
   
-* Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)
+* **Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)**
   * With Giancarlo Corsetti (Cambridge) and Arnaud Mehl (ECB)
 
-* Can Countries Manage Their Financial Conditions Amid Globalization? (2018)
+* **Can Countries Manage Their Financial Conditions Amid Globalization?
+  (2018), [IMF Working Paper No. 18/15](https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-Their-Financial-Conditions-Amid-Globalization-45581)**
   * With Nicolas Arregui, Selim Elekdag, Gaston Gelos and Dulani Seneviratne (all IMF)
-  * [IMF Working Paper No. 18/15](https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-Their-Financial-Conditions-Amid-Globalization-45581)
-    
-* Thick vs. Thin-Skinned:  Technology, News, and Financial Market Reaction
-  (2017)
+      
+* **Thick vs. Thin-Skinned:  Technology, News, and Financial Market Reaction
+  (2017) [IMF working Paper No. 17/91](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810)**
   * With Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
-  * [IMF working Paper No. 17/91](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810)
 
 * Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market (2016)
   * With Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
