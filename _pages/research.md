@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Research"
+title: "Academic Research"
 permalink: /research/
 author_profile: true
 ---
-
-# Academic Research
 
 ### Predictive Density Aggregation: A Model for Global GDP Growth (2020) 
 [IMF Working
@@ -28,7 +26,9 @@ aggregate while  preserving the  non-i.i.d.  nature of  the global  GDP growth
 distribution. Out-of-sample metrics confirm the accuracy of our approach.*
 
 ### Growth-at-Risk: Concept and Application in IMF Country Surveillance (2019)
-[IMF Working Paper](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
+[IMF                                                                   Working
+Paper](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
+with Prasad et al.
 
 *The Growth-at-Risk (GaR) framework links current macrofinancial conditions to
 the distribution of future growth. Its  main strength is its ability to assess
@@ -128,8 +128,7 @@ centers, boosting the share in global  turnover of London, the world’s largest
 trading venue, by as much as one-third.*
 
 
-### Understanding Household Savings in China: the Role of the Housing Market &
-Borrowing Constraints (2013) 
+### Understanding Household Savings in China: the Role of the Housing Market & Borrowing Constraints (2013) 
 
 [MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html) with Matthieu Bussière (Banque de France), Yannick Kalantzis (Banque de
 France) and Terry Sicular (Western Ontario) 
@@ -149,7 +148,7 @@ higher  housing  prices  do  in  fact  increase  the  saving  rates  of  young
 households. We also find evidence for the predicted non-linearity.*
 
 
-# Policy Work
+# Policy Research
 
 ### IMF GFSR: House Price Synchronization: What Role for Financial Factors? (2018)
   * International Monetary Fund, Global Financial Stability Report, Chapter 3
