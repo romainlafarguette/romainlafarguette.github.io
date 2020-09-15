@@ -13,16 +13,21 @@ not necessarily reflect  the views and opinions of  the International Monetary
 Fund,  nor any  institutions  I  am currently  affiliated  with  or have  been
 affiliated with.***
 
+![](/images/xkcd-pool.png)
+*What if ? xkcd 029 "Spent Fuel Pool"*
 
 ## Copyrights
-* The  pictures, text and  hyperlinks in this  website are under  the Creative
-Commons license Attribution-NonCommercial-NoDerivs CC BY-NC-ND
+* The  pictures, text and  hyperlinks in this  website are under the Creative
+Commons license Attribution-NonCommercial-NoDerivs CC BY-NC-ND. The comics are
+taken from [xkcd](https://xkcd.com/)
 
 * For any question or suggestion about this website, please contact me via the
 email address in the sidebar or via Github
 
-
 ## Resources
+
+![](/images/xkcd-python.png)
+*xkcd 353 "Python"*
 
 ### Python
 * I  can not  recommend enough  using Python  for econometrics/statistics/data
@@ -66,6 +71,7 @@ for      science,     math,      engineering,      and     data      analysis:
     manipulate them  easily. It  is much  faster than SQL  for numerical  data and
     integrates seamlessly with Pandas: [link](https://en.wikipedia.org/wiki/Hierarchical_Data_Format)
 
+
 ### Emacs
 
 * Windows and Mac users can install the modified Emacs version by Vincent
@@ -85,5 +91,5 @@ for      science,     math,      engineering,      and     data      analysis:
 * [Emacs refcard](http://www.damtp.cam.ac.uk/user/sje30/ess11/resources/emacs-refcard.pdf)
 
 
-![test](/images/xkcd-emacs.png)
+![](/images/xkcd-emacs.png)
 *xkcd 378 "Real Programmers" (note that the Emacs Easter egg C-X M-C M-butterfly really works !!)*
