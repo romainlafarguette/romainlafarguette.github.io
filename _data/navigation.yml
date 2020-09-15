@@ -4,8 +4,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Policy Work"
+    url: /policy/
+
+  - title: "Software"
+    url: /software/
+
   - title: "CV"
     url: /cv/
     
-  - title: "Software"
-    url: /software/
