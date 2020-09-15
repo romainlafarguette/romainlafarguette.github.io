@@ -102,17 +102,17 @@ Projections](https://github.com/romainlafarguette/quantileproj)
 
 ## Teaching  
 
-* Forecasting with Quantile Regressions (2020) 
+* **Forecasting with Quantile Regressions (2020)**
   * Course for the South East Asian Central Banks (SEACEN) Research and
   Training Centre  
 
-* Clinic on Growth-at-Risk and Density Forecasting at the IMF (2019)
+* **Clinic on Growth-at-Risk and Density Forecasting at the IMF (2019)**
   * Course for the IMF Institute Capacity and Development  
 
-* Introduction to Python for IMF Economists (2019)
+* **Introduction to Python for IMF Economists (2019)**
   * European Department  
 
-* Linear and Non-Linear Econometrics, Statistics, Macroeconomics (2010-2012)
+* **Linear and Non-Linear Econometrics, Statistics, Macroeconomics (2010-2012)**
   * ENSAE and Sciences Po Paris  
 
 

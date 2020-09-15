@@ -146,7 +146,7 @@ households. We also find evidence for the predicted non-linearity.*
 # Policy Publications
 
 ### IMF GFSR: House Price Synchronization: What Role for Financial Factors? (2018)
-  * [Global Financial Stability Report, Chapter 3](https://www.elibrary.imf.org/view/IMF082/24893-9781484338292/24893-9781484338292/ch03.xml?language=en#:~:text=Higher%20house%20price%20synchronization%20corresponds,risk%20of%20an%20economic%20downturn.), International Monetary Fund
+  * [Global Financial Stability Report 2018 Spring, Chapter 3](https://www.elibrary.imf.org/view/IMF082/24893-9781484338292/24893-9781484338292/ch03.xml?language=en#:~:text=Higher%20house%20price%20synchronization%20corresponds,risk%20of%20an%20economic%20downturn.), International Monetary Fund
 
 ### IMF GFSR: Financial Conditions and Growth at Risk (2017)
   * [Global Financial Stability Report 2017 Fall, Chapter
