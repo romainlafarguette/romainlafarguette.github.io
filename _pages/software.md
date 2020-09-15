@@ -12,7 +12,13 @@ sitemap: false
   density forecasting model based on quantile regressions and parametric fit
 
     * Developped at the International Monetary Fund, from the seminal paper of
-    Adrian et al. (2019) *Vulnerable Growth*, American Economic Review 
+    Adrian et al. (2019) *Vulnerable Growth*, American Economic Review. I have
+    incorporated a significant number of improvements to made GaR applicable
+    to a wide range of countries. 
+
+    * Please cite our working paper presenting the toolkit and applications Growth-at-Risk: Concept and Application in
+      IMF Country Surveillance (2019), [IMF Working Paper No. 19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
+
 
 ### Distributional GaRCH model to design VaR-based FX Interventions for Central Banks
 * [Github repo](https://github.com/romainlafarguette/varfxi)
