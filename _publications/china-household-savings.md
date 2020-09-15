@@ -1,12 +1,15 @@
 ---
 title: "Understanding Household Savings in China: the Role of the Housing Market & Borrowing Constraints (2013)"
 collection: publications
-permalink: /publication/china-household-savings
+permalink: /publication/china-household-savings/
 excerpt: 'This paper examines the role of rising housing prices and borrowing constraints as determinants of China's high household saving rate'
 date: 2013
 venue: 'MPRA Paper'
 paperurl: 'https://ideas.repec.org/p/pra/mprapa/44611.html'
 ---
+
+With  Matthieu  Bussière (Banque  de  France),  Yannick Kalantzis  (Banque  de
+France) and Terry Sicular (Western Ontario) 
 
 This  paper  examines  the  role   of  rising  housing  prices  and  borrowing
 constraints as determinants of China's  high household saving rate, especially

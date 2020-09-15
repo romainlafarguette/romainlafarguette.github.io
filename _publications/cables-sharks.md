@@ -1,12 +1,15 @@
 ---
 title: "Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market (2016)"
 collection: publications
-permalink: /publication/cables-sharks
+permalink: /publication/cables-sharks/
 excerpt: 'We analyze the impact of technology on production and trade in services, focusing on the foreign exchange market'
 date: 2016
 venue: 'NBER Paper'
 paperurl: 'https://www.nber.org/papers/w21884'
 ---
+
+With Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
+March 2016 NBER digest, Vox Column and press coverage: Les Echos.
 
 We  analyze the  impact of  technology on  production and  trade in  services,
 focusing on the foreign exchange  market.  We identify exogenous technological
@@ -28,3 +31,5 @@ centers, boosting the share in global  turnover of London, the world's largest
 trading venue, by as much as one-third.
 
 [Download paper here](https://www.nber.org/papers/w21884)
+
+
