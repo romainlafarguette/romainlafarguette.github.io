@@ -1,25 +1,8 @@
 # main links links
 main:
 
-  - title: "Research"
-    url: /backup-research/
-
-  - title: "Missions"
-    url: /country/
-
   - title: "Policy"
     url: /policy/
 
-  - title: "Software"
-    url: /software/
-
-  - title: "Teaching"
-    url: /backup-research/
-
-  - title: "CV"
-    url: /cv/
-
-  - title: "Misc"
-    url: /misc/
 
 
