@@ -12,12 +12,12 @@ redirect_from:
 
 ## Work Experience
 
-* **Since 2016: International Monetary Fund, Economist**
+* **International Monetary Fund, Economist** (since 2016)
   * 2019-    : Monetary and Capital Markets department
   * 2018-2019: European department (EP)
   * 2016-2018: Monetary and Capital Markets department (EP) &nbsp;
 
-* **2013-2016: European Central Bank, Portfolio Manager and Economist**
+* **European Central Bank, Portfolio Manager and Economist** (2013-2016)
   * 2015-2016: DG Financial Stability, Financial Regulations 
   * 2014-2015: DG Market Operations, Foreign Reserves, Trading Desk 
   * 2013-2014: DG International Relations, FX modeling  
@@ -32,7 +32,7 @@ redirect_from:
   * Ph.D in Economics, Peking University, 2017  
   * Ph.D in Economics, Paris School of Economics, 2017  
   * M.Res, Normalien, ENS Paris Saclay, 2011 *(ranked first at France's
-    national competition)*
+    national entrance competition)*
   * M.Sc in Applied Mathematics, ENSAE Paris, 2009  
   * M.A in Philosophy, Sorbonne University, 2009  
   * Undergrad in Mathematics and Philosophy, CPGE Henri IV Paris, 2005  
