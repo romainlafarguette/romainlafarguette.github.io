@@ -8,7 +8,7 @@ author_profile: true
 ### Predictive Density Aggregation: A Model for Global GDP Growth (2020) 
 [IMF Working
 Paper](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
-with Francesca Caselli, Francesco Grigoli and Changchun Wang (all IMF)
+with Francesca Caselli, Francesco Grigoli and Changchun Wang
 
 *We propose  a novel approach to  obtain the predictive density  of global GDP
 growth.  It hinges  upon a  bottom-up probabilistic  model that  estimates and
@@ -26,7 +26,7 @@ aggregate while  preserving the  non-i.i.d.  nature of  the global  GDP growth
 distribution. Out-of-sample metrics confirm the accuracy of our approach.*
 
 ### Growth-at-Risk: Concept and Application in IMF Country Surveillance (2019)
-[IMF                                                                   Working
+[IMF Working
 Paper](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
 with Prasad et al.
 
@@ -43,7 +43,7 @@ efforts.*
 
 
 ### Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)
-With Giancarlo Corsetti (Cambridge) and Arnaud Mehl (ECB)
+With Giancarlo Corsetti and Arnaud Mehl
 
 *Focusing on the  foreign exchange reaction to  macroeconomic announcements, we
 show that  fast trading  is positively and  significantly correlated  with the
@@ -66,7 +66,7 @@ enhanced heterogeneity in trading patterns.*
 ### Can Countries Manage Their Financial Conditions Amid Globalization? (2018) 
 [IMF Working Paper
 No. 18/15](https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-Their-Financial-Conditions-Amid-Globalization-45581)
-with Nicolas Arregui, Selim Elekdag, Gaston Gelos and Dulani Seneviratne (all IMF)
+with Nicolas Arregui, Selim Elekdag, Gaston Gelos and Dulani Seneviratne
 
 *This  paper  examines the  evolving  importance  of common  global  components
 underlying  domestic financial  conditions. It  develops financial  conditions
@@ -83,10 +83,8 @@ may also  make it  difficult to  react in  a timely  and effective  manner, if
 deemed necessary.*
 
 
-### Thick vs. Thin-Skinned:  Technology, News, and Financial Market Reaction
-(2017) 
-[IMF working paper
-2017](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810)
+### Thick vs. Thin-Skinned:  Technology, News, and Financial Market Reaction (2017) 
+[IMF working paper](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810)
 with Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
 
 *We study  the impact of  technology on the  reaction of financial  markets to
@@ -103,7 +101,7 @@ exchange rates to U.S.  monetary policy news by 50 to 80 percent.*
 
 
 ### Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market (2016) 
-[NBER working paper 2016](https://www.nber.org/papers/w21884) with Barry
+[NBER working paper](https://www.nber.org/papers/w21884) with Barry
 Eichengreen (Berkeley) and Arnaud Mehl (ECB)
 
 March 2016 NBER digest, Vox Column and press coverage: Les Echos.
@@ -129,7 +127,6 @@ trading venue, by as much as one-third.*
 
 
 ### Understanding Household Savings in China: the Role of the Housing Market & Borrowing Constraints (2013) 
-
 [MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html) with Matthieu Bussière (Banque de France), Yannick Kalantzis (Banque de
 France) and Terry Sicular (Western Ontario) 
 
@@ -146,6 +143,7 @@ the theoretical model, we analyze a dataset of over six thousand Chinese urban
 households  spanning the  years 1995,  2002 and  2007. We  find evidence  that
 higher  housing  prices  do  in  fact  increase  the  saving  rates  of  young
 households. We also find evidence for the predicted non-linearity.*
+
 
 
 # Policy Research
