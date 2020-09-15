@@ -3,7 +3,7 @@ title: "Understanding Household Savings in China: the Role of the Housing Market
 collection: publications
 permalink: /publication/china-household-savings/
 excerpt: 'This paper examines the role of rising housing prices and borrowing constraints as determinants of China's high household saving rate'
-date: 2013
+date: 2013-01-01
 venue: 'MPRA Paper'
 paperurl: 'https://ideas.repec.org/p/pra/mprapa/44611.html'
 ---

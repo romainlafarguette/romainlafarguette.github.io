@@ -3,7 +3,7 @@ title: "Cables, Sharks and Servers: Technology and the Geography of the Foreign 
 collection: publications
 permalink: /publication/cables-sharks/
 excerpt: 'We analyze the impact of technology on production and trade in services, focusing on the foreign exchange market'
-date: 2016
+date: 2016-01-01
 venue: 'NBER Paper'
 paperurl: 'https://www.nber.org/papers/w21884'
 ---

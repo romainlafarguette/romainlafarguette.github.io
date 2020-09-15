@@ -3,7 +3,7 @@ title: "Thick vs. Thin-Skinned:  Technology, News, and Financial Market Reaction
 collection: publications
 permalink: /publication/thick-thin/
 excerpt: 'We study the impact of technology on the reaction of financial markets to information, focusing on the foreign exchange market'
-date: 2016
+date: 2017-01-01
 venue: 'IMF Working Paper'
 paperurl: 'https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810'
 ---

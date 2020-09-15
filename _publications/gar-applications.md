@@ -3,7 +3,7 @@ title: "Growth-at-Risk: Concept and Application in IMF Country Surveillance"
 collection: publications
 permalink: /publication/gar-applications/
 excerpt: 'The growth-at-risk (GaR) framework links current macrofinancial conditions to the distribution of future growth'
-date: 2019
+date: 2019-01-01
 venue: 'IMF Working Paper'
 paperurl: 'https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567'
 citation: 'Prasad, et al. Growth-at-Risk: Concept and Application in IMF Country Surveillance. International Monetary Fund, 2019'
