@@ -2,7 +2,7 @@
 main:
 
   - title: "Research"
-    url: /research/
+    url: /backup-research/
 
   - title: "Missions"
     url: /country/
@@ -14,7 +14,7 @@ main:
     url: /software/
 
   - title: "Teaching"
-    url: /backup_publis/
+    url: /backup-research/
 
   - title: "CV"
     url: /cv/
