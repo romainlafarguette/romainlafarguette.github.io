@@ -14,8 +14,7 @@ redirect_from:
 * **Since 2016: International Monetary Fund, Economist**
   * 2019-    : Monetary and Capital Markets department
   * 2018-2019: European department (EP)
-  * 2016-2018: Monetary and Capital Markets department (EP)
-&nbsp;
+  * 2016-2018: Monetary and Capital Markets department (EP) &nbsp;
 
 * **2013-2016: European Central Bank, Portfolio Manager and Economist**
   * 2015-2016: DG Financial Stability, Financial Regulations 
@@ -50,7 +49,7 @@ including policy research*
   
 * **Growth at Risk: Concept and Application in IMF Country Surveillance (2019)**
   * [IMF Working Paper no
-    19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)*
+    19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
     *with Prasad et al.*
   
 * **Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)** 
@@ -65,8 +64,8 @@ including policy research*
   *with Barry Eichengreen and Arnaud Mehl*
 
 * **Cables, Sharks and Servers: Technology and the Geography of the Foreign
-  Exchange Market (2016) [NBER Working Paper No. 21884](https://www.nber.org/papers/w21884)** 
-  * With Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)
+  Exchange Market (2016)** 
+  * [NBER Working Paper No. 21884](https://www.nber.org/papers/w21884) *with Barry Eichengreen (Berkeley) and Arnaud Mehl (ECB)*
   * March 2016 NBER, digest, Vox Column and press coverage: Les Echos.
 
 * **Understanding Household Savings in China: the Role of the Housing Market
