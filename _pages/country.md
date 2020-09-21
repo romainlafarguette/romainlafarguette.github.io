@@ -14,7 +14,7 @@ author_profile: true
   * Supported the country team as monetary economist for the Rapid Credit
     Facility (RCF) program
 
-### China (2019)
+### People's Republic of China (2019)
 * International Monetary Fund, technical assistance mission to the People's
     Bank of China 
   * Financial modeling
@@ -23,7 +23,7 @@ author_profile: true
 * Part of the International Monetary Fund recruitment team for the Economist Program (EP) 
   * Universities of Chicago, Northwestern, Minnesota, Michigan
 
-### Hong-Kong (2019-2020)
+### Hong-Kong SAR (2019-2020)
 * International Monetary Fund, Financial System Stability Assessment Program 
   * Liquidity stress-resting
   * Central bank operations and systemic liquidity management
@@ -50,7 +50,7 @@ author_profile: true
   * Liquidity Management in Peruvian Money Markets: A Financial Stability
       Perspective 
 
-### China (2015)
+### People's Republic of China (2015)
 * European Central Bank, DG-Market Operations
   * Negotiations with the People's Bank of China in Beijing and Shanghai to acquire RMB for the FX reserves of the Eurosystem
     
