@@ -23,8 +23,10 @@ redirect_from:
   * 2014-2015: DG Market Operations, Foreign Reserves, Trading Desk 
   * 2013-2014: DG International Relations, exchange rate modeling  
 
-*Country missions to: China, Hong-Kong SAR, India, Philippines, Malaysia, Singapore, Morocco, Israel, Albania, Peru. See
-[here](https://romainlafarguette.github.io/country/) for more information*  
+*Country missions to: China, Hong-Kong SAR, India, Philippines, Malaysia,
+Singapore, Morocco, Israel, Albania, Peru.* 
+
+*Please see [here](https://romainlafarguette.github.io/country/) for more information*  
 
 * **Short-term positions**
   * French embassy in China, Financial Office (2011-2012)
