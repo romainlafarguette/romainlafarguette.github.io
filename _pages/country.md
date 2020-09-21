@@ -5,7 +5,8 @@ permalink: /country/
 author_profile: true
 ---
 
-### Morocco: Technical Assistance (2020)
+### Morocco 2020
+* **Technical Assistance**
 * International Monetary Fund, technical assistance mission to the Bank Al-Maghrib 
   * Foreign exchange interventions
 
