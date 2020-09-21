@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome ! Bienvenue ! 欢迎 ! "
+title: "Welcome - Bienvenue - 欢迎 ! "
 excerpt: "About me"
 author_profile: true
 sitemap: false
@@ -14,10 +14,10 @@ International Monetary Fund (IMF) in Washington DC.
 
 I  work  for the  Monetary  and  Capital Markets  Department  of  the IMF.  My
 responsibilities include:
-1.  [Academic research](https://romainlafarguette.github.io/research/)
-   in financial economics and financial econometrics
-2. [IMF country missions](https://romainlafarguette.github.io/country/),
+1. [IMF country missions](https://romainlafarguette.github.io/country/),
    related to central bank operations, monetary policy, modeling and forecasting
+2.  [Academic research](https://romainlafarguette.github.io/research/)
+   in financial economics and financial econometrics
 3.      [Software       development      for      central       banks      and
    economists](https://romainlafarguette.github.io/software/), with a focus on
    density forecasting. You  can  find  them   on  my  [Github page](https://github.com/romainlafarguette)
