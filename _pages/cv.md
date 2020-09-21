@@ -13,10 +13,10 @@ redirect_from:
 ## Work Experience
 
 * **International Monetary Fund, Economist** (since 2016)
-  * 2019-....: Monetary and Capital Markets department
+  * 2019-present: Monetary and Capital Markets department
   * 2018-2019: European department (EP)
   * 2016-2018: Monetary and Capital Markets department (EP)  
-
+      
 
 * **European Central Bank, Portfolio Manager and Economist** (2013-2016)
   * 2015-2016: DG Financial Stability, Financial Regulations 
