@@ -24,8 +24,7 @@ redirect_from:
   * 2013-2014: DG International Relations, exchange rate modeling  
 
 *Country missions to: China, Hong-Kong SAR, India, Philippines, Malaysia,
-Singapore, Morocco, Israel, Albania, Peru.* 
-
+Singapore, Morocco, Israel, Albania, Peru.*   
 *Please see [here](https://romainlafarguette.github.io/country/) for more information*  
 
 * **Short-term positions**
