@@ -25,7 +25,7 @@ author_profile: true
 
 ### Hong-Kong SAR (2019-2020)
 * International Monetary Fund, Financial System Stability Assessment Program 
-  * Liquidity stress-resting
+  * Liquidity stress-testing
   * Central bank operations and systemic liquidity management
 
 ### India, Philippines, Malaysia, Singapore (2019)
