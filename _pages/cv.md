@@ -36,7 +36,7 @@ redirect_from:
 
   * Ph.D in Economics, Peking University (2017, curriculum in Mandarin)  
   * Ph.D in Economics, Paris School of Economics (2017)  
-  * M.Res, Normalien, ENS Paris Saclay (2011) *(ranked first at France's
+  * M.Res, Normalien, Ecole Normale Superieure Paris Saclay (2011) *(ranked first at France's
     national entrance competition)*
   * M.Eng. in Applied Mathematics, major in Statistics, ENSAE Paris (2009)  
   * M.A in Philosophy, major in Epistemology, Sorbonne University (2009)  
