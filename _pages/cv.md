@@ -21,22 +21,28 @@ redirect_from:
 * **European Central Bank, Portfolio Manager and Economist** (2013-2016)
   * 2015-2016: DG Financial Stability, Financial Regulations 
   * 2014-2015: DG Market Operations, Foreign Reserves, Trading Desk 
-  * 2013-2014: DG International Relations, FX modeling  
+  * 2013-2014: DG International Relations, exchange rate modeling  
 
 *Country missions to: China, Hong-Kong, India, Philippines, Malaysia, Singapore, Morocco, Israel, Albania, Peru. See
 [here](https://romainlafarguette.github.io/country/) for more information*  
 
+* **Short-term positions**
+  * French embassy in China, Financial Office (2011-2012)
+  * Banque de France, International Department, Paris (2009)
+  * OECD, Paris (2007)
+  * French Embassy in Mali, Financial Office (2005)
 
 ## Education
 
-  * Ph.D in Economics, Peking University, 2017  
-  * Ph.D in Economics, Paris School of Economics, 2017  
-  * M.Res, Normalien, ENS Paris Saclay, 2011 *(ranked first at France's
+  * Ph.D in Economics, Peking University (2017, curriculum in Mandarin)  
+  * Ph.D in Economics, Paris School of Economics (2017)  
+  * M.Res, Normalien, ENS Paris Saclay (2011) *(ranked first at France's
     national entrance competition)*
-  * M.Sc in Applied Mathematics, major in Statistics, ENSAE Paris, 2009  
-  * M.A in Philosophy, major in Epistemology, Sorbonne University, 2009  
-  * Undergrad in Mathematics and Philosophy, CPGE Henri IV Paris, 2005  
-  * Military High-School, Scientific section, Prytanee National Militaire de La Fleche, 2003  
+  * M.Eng. in Applied Mathematics, major in Statistics, ENSAE Paris (2009)  
+  * M.A in Philosophy, major in Epistemology, Sorbonne University (2009)  
+  * Undergrad in Mathematics and Philosophy, CPGE Henri IV Paris (2005)  
+  * Military High-School, Scientific section, Prytanee National Militaire de
+    La Fleche (2003)  
 
 ## Academic Research
 
@@ -77,11 +83,11 @@ including policy publications*
 
 ## Skills  
 * **Languages**  
-  * Fluent in Chinese Mandarin (6 years in China)
+  * Fluent in Chinese Mandarin (6 years in China, curriculum taught in Mandarin)
   * Fluent in English
   * Native in French
   
-* **Programming**  
+* **Programming (advanced level)**  
   * Python, R, Matlab, Stata, LateX, Git
 
 
@@ -95,8 +101,7 @@ Fit](https://github.com/IMFGAR/GaR)
 * [Distributional GaRCH model to design FX Interventions for Central
 Banks](https://github.com/romainlafarguette/varfxi) 
 
-* [Quantile Local
-Projections](https://github.com/romainlafarguette/quantileproj)
+* [Quantile Local Projections](https://github.com/romainlafarguette/quantileproj)
 
 
 ## Teaching  
