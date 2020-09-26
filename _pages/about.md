@@ -12,9 +12,9 @@ redirect_from:
 Welcome to the website of Romain Lafarguette (罗哲文), Ph.D., economist at the
 International Monetary Fund (IMF) in Washington DC. 
 
-I have expertise in central bank operations, monetary policy, modeling and
-forecasting, stress-testing. I also have general macroeconomics skills, with
-country desk work experience.  
+I have expertise in central bank operations, monetary policy, modeling &
+forecasting, and stress-testing. I also have general macroeconomics skills, with
+country work experience, with a focus on emerging markets.  
 
 I  work  for the  Monetary  and  Capital Markets  Department  of  the IMF.  My
 responsibilities include:
@@ -30,5 +30,6 @@ My recent research interests cover:
 - Density Forecasting and Forecast Evaluation
 - Financial Stability and Macro-Financial Risk Modeling
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/romain-lafarguette-罗哲文-24482a17/), [Vox](http://www.voxeu.org/person/romain-lafarguette) and [Repec](http://www.voxeu.org/person/romain-lafarguette)
+I am very active on [Github](https://github.com/romainlafarguette). You can
+also find me on [LinkedIn](https://www.linkedin.com/in/romain-lafarguette-罗哲文-24482a17/), [Vox](http://www.voxeu.org/person/romain-lafarguette) and [Repec](http://www.voxeu.org/person/romain-lafarguette)
 
