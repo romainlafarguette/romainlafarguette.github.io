@@ -12,15 +12,15 @@ redirect_from:
 Welcome to the website of Romain Lafarguette (罗哲文), Ph.D., economist at the
 International Monetary Fund (IMF) in Washington D.C. 
 
-I have expertise in central bank operations, monetary policy, modeling &
-forecasting, and stress-testing. I also have general macroeconomics skills, with
+I have expertise in central bank operations, monetary policy, modeling and
+forecasting, as well as bank stress-testing. I also have general macroeconomics skills and
 country work experience, with a focus on emerging markets.  
 
 I  work  for the  Monetary  and  Capital Markets  Department  of  the IMF. My responsibilities include:
 1. [IMF country missions](https://romainlafarguette.github.io/country/),
-2.  [Academic research](https://romainlafarguette.github.io/research/)
+2. [Academic research](https://romainlafarguette.github.io/research/)
    in financial economics and econometrics
-3.      [Statistical software       development      for      central       banks      and
+3. [Statistical software       development      for      central       banks      and
    economists](https://romainlafarguette.github.io/software/), with a focus on
    density forecasting. You  can  find  them   on  my  [Github page](https://github.com/romainlafarguette)
 
@@ -30,6 +30,5 @@ My recent research interests covers:
 - Risk modeling and density forecasting
 - Financial stability and stress-testing
 
-I am very active on [Github](https://github.com/romainlafarguette). You can
-also find me on [LinkedIn](https://www.linkedin.com/in/romain-lafarguette-罗哲文-24482a17/), [Vox](http://www.voxeu.org/person/romain-lafarguette) and [Repec](http://www.voxeu.org/person/romain-lafarguette)
+I am very active on [Github](https://github.com/romainlafarguette). You can also find me on [LinkedIn](https://www.linkedin.com/in/romain-lafarguette-罗哲文-24482a17/), [Vox](http://www.voxeu.org/person/romain-lafarguette) and [Repec](http://www.voxeu.org/person/romain-lafarguette)
 

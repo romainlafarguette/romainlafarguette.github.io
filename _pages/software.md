@@ -8,7 +8,7 @@ sitemap: false
 
 
 I design open-source Python statistical packages for central banks and economists in
-general, for forecasting and modeling. One of my most recent packages, on estimating
+general, in the area of forecasting and financial modeling. One of my most recent packages, on estimating
 Growth-at-Risk, is used by more than twenty central banks in the world. 
 
 The packages are freely available through Github. Please cite the companion working
