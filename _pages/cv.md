@@ -95,7 +95,7 @@ including policy publications*
 * **Programming (advanced level)**  
   * Python, R, Matlab, Stata, TeX, Git
 
-* **Quantitative Methods (with publications)**
+* **Statistics (with publications)**
   * Standard linear statistics, time series and panel inference, etc.  
   * Sampling methods, Bayesian statistics  
   * Density estimation and forecasting  
@@ -103,7 +103,7 @@ including policy publications*
   * Machine learning, high-dimensional and computational statistics  
 
   
-## StatistSoftware development (open-source)  
+## Statistical Software Development (Open-Source)  
 
 *See [here](https://romainlafarguette.github.io/software/) for more details*  
 
