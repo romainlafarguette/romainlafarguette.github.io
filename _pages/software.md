@@ -1,14 +1,17 @@
 ---
 layout: archive
-title: "Software development"
+title: "Statistical Software Development"
 permalink: /software/
 author_profile: true
 sitemap: false
 ---
 
 
-I design open-source Python packages for central banks and economists in
-general. They are freely available through Github. Please cite the companion working
+I design open-source Python statistical packages for central banks and economists in
+general, for forecasting and modeling. One of my most recent packages, on estimating
+Growth-at-Risk, is used by more than twenty central banks in the world. 
+
+The packages are freely available through Github. Please cite the companion working
 paper when using the tools. 
 
 
@@ -16,12 +19,15 @@ paper when using the tools.
 * [Github repo](https://github.com/IMFGAR/GaR)
 * Python package and Excel tool to estimate the Growth-at-Risk model, which is a
   density forecasting model based on quantile regressions and parametric
-  fit. Developped with Changchun Wang (also at the IMF)
+  fit. Changchun Wang (also at the IMF) designed the Excel-Python interface
 
     * Developped at the International Monetary Fund, from the seminal paper of
     Adrian et al. (2019) *Vulnerable Growth*, American Economic Review. I have
     incorporated a significant number of improvements to made GaR applicable
     to a wide range of countries. 
+    
+    * Used by more than twenty central banks in the world (either the Excel
+      tool developped by Changchun or the pure Python scripts I wrote)
 
     * Please cite our working paper presenting the toolkit and applications Growth-at-Risk: Concept and Application in
       IMF Country Surveillance (2019), [IMF Working Paper No. 19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
