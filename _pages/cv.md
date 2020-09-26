@@ -37,7 +37,7 @@ Singapore, Morocco, Israel, Albania, Peru.*
 
   * **Ph.D in Economics**, Peking University & Paris School of Economics (2017)  
     *Six years in China, curriculum entirely done in Chinese Mandarin*  
-  * **M.Res**, Normalien, Ecole Normale Superieure Paris Saclay (2011)  
+  * **M.Res, *Normalien***, Ecole Normale Superieure Paris Saclay (2011)  
     *Ranked first at France's national entrance competition*
   * **M.A in Philosophy**, Paris Sorbonne University (2009)  
     *Major in Epistemology and Philosophy of Medicine*
@@ -108,8 +108,8 @@ including policy publications*
 
 * [Growth at Risk: Density Forecasting via Quantile Regressions and Parametric
 Fit](https://github.com/IMFGAR/GaR) 
- * *With Changchun Wang (also at the IMF), who designed the Excel-Python interface*
- * *Used by more than twenty central banks in the world*
+  * *With Changchun Wang (also at the IMF), who designed the Excel-Python interface*
+  * *Used by more than twenty central banks in the world*
 
 * [Distributional GaRCH model to design FX Interventions for Central
 Banks](https://github.com/romainlafarguette/varfxi) 
