@@ -35,9 +35,8 @@ Singapore, Morocco, Israel, Albania, Peru.*
 
 ## Education
 
-  * **Ph.D**, Monetary and Financial Economics, Peking University (2017)  
+  * **Ph.D**, Monetary and Financial Economics, Peking University and Paris School of Economics (2017)  
     *Six years in China, curriculum entirely done in Chinese Mandarin*  
-  * **Ph.D**, Monetary and Financial Economics, Paris School of Economics (2017)  
   * **M.Res**, Normalien, Ecole Normale Superieure Paris Saclay (2011)  
     *Ranked first at France's national entrance competition*
   * **M.A** in Philosophy, Paris Sorbonne University (2009)  
