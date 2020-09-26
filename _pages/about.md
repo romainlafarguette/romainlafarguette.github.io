@@ -21,7 +21,7 @@ responsibilities include:
 1. [IMF country missions](https://romainlafarguette.github.io/country/),
 2.  [Academic research](https://romainlafarguette.github.io/research/)
    in financial economics and econometrics
-3.      [Software       development      for      central       banks      and
+3.      [Statistical software       development      for      central       banks      and
    economists](https://romainlafarguette.github.io/software/), with a focus on
    density forecasting. You  can  find  them   on  my  [Github page](https://github.com/romainlafarguette)
 
