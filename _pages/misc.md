@@ -18,6 +18,11 @@ affiliated with.***
 * The  pictures, text and  hyperlinks in this  website are under the Creative
 Commons license Attribution-NonCommercial-NoDerivs CC BY-NC-ND. 
 
+* The profile picture is a direct reference to my love of the [French
+  literature](https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(play)) and
+  [French comics](https://en.wikipedia.org/wiki/De_cape_et_de_crocs), as well
+  as common physical and personality traits I share with the protagonist :-)
+
 * For any question or suggestion about this website, please contact me via the
 email address in the sidebar or via Github
 
