@@ -24,7 +24,8 @@ paper when using the tools.
     * Developped at the International Monetary Fund, from the seminal paper of
     Adrian et al. (2019) *Vulnerable Growth*, American Economic Review. I have
     incorporated a significant number of improvements to make GaR applicable
-    to a wide range of countries. 
+    to a wide range of countries, including emerging markets and countries
+    with data limitations. 
     
     * Used by more than twenty central banks in the world (either the Excel
       tool developped by Changchun or the pure Python scripts I wrote)
