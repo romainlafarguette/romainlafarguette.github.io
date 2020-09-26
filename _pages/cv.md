@@ -35,13 +35,13 @@ Singapore, Morocco, Israel, Albania, Peru.*
 
 ## Education
 
-  * **Ph.D**, Monetary and Financial Economics, Peking University and Paris School of Economics (2017)  
+  * **Ph.D in Economics**, Peking University & Paris School of Economics (2017)  
     *Six years in China, curriculum entirely done in Chinese Mandarin*  
   * **M.Res**, Normalien, Ecole Normale Superieure Paris Saclay (2011)  
     *Ranked first at France's national entrance competition*
-  * **M.A** in Philosophy, Paris Sorbonne University (2009)  
+  * **M.A in Philosophy**, Paris Sorbonne University (2009)  
     *Major in Epistemology and Philosophy of Medicine*
-  * **M.Eng.** in Applied Mathematics, ENSAE Paris (2009)  
+  * **M.Eng. in Applied Mathematics**, ENSAE Paris (2009)  
     *Major in Statistics*
   * Undergrad in Mathematics and Philosophy, CPGE Henri IV Paris (2005)  
   * Military High-School, Prytanee National Militaire de La Fleche (2003)  
