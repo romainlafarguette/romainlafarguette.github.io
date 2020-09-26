@@ -13,15 +13,15 @@ redirect_from:
 ## Work Experience
 
 * **International Monetary Fund, Economist**
-  * 2019- now: Monetary and Capital Markets department
-  * 2018-2019: European department (EP)
-  * 2016-2018: Monetary and Capital Markets department (EP)  
+  * 2019- now : Monetary and Capital Markets department
+  * 2018-2019 : European department (EP)
+  * 2016-2018 : Monetary and Capital Markets department (EP)  
       
 
 * **European Central Bank, Portfolio Manager and Economist**
-  * 2015-2016: DG Financial Stability, Financial Regulations 
-  * 2014-2015: DG Market Operations, Foreign Reserves, Trading Desk 
-  * 2013-2014: DG International Relations, exchange rate modeling  
+  * 2015-2016 : DG Financial Stability, Financial Regulations 
+  * 2014-2015 : DG Market Operations, Foreign Reserves, Trading Desk 
+  * 2013-2014 : DG International Relations, exchange rate modeling  
 
 *Country missions to: China, Hong-Kong SAR, India, Philippines, Malaysia,
 Singapore, Morocco, Israel, Albania, Peru.*  
@@ -35,14 +35,14 @@ Singapore, Morocco, Israel, Albania, Peru.*
 
 ## Education
 
-  * Ph.D, Monetary and Financial Economics, Peking University (2017)  
+  * **Ph.D**, Monetary and Financial Economics, Peking University (2017)  
     *Six years in China, curriculum entirely done in Chinese Mandarin*  
-  * Ph.D, Monetary and Financial Economics, Paris School of Economics (2017)  
-  * M.Res, Normalien, Ecole Normale Superieure Paris Saclay (2011)  
+  * **Ph.D**, Monetary and Financial Economics, Paris School of Economics (2017)  
+  * **M.Res**, Normalien, Ecole Normale Superieure Paris Saclay (2011)  
     *Ranked first at France's national entrance competition*
-  * M.A in Philosophy, Paris Sorbonne University (2009)  
+  * **M.A** in Philosophy, Paris Sorbonne University (2009)  
     *Major in Epistemology and Philosophy of Medicine*
-  * M.Eng. in Applied Mathematics, ENSAE Paris (2009)  
+  * **M.Eng.** in Applied Mathematics, ENSAE Paris (2009)  
     *Major in Statistics*
   * Undergrad in Mathematics and Philosophy, CPGE Henri IV Paris (2005)  
   * Military High-School, Prytanee National Militaire de La Fleche (2003)  
@@ -87,12 +87,13 @@ including policy publications*
 
 ## Skills  
 * **Languages**  
-  * Fluent in Chinese Mandarin (6 years in China, curriculum taught in Mandarin)
-  * Fluent in English
-  * Native in French
+  * Fluent in Chinese Mandarin  
+   *Six years in China, curriculum taught in Mandarin*  
+  * Fluent in English  
+  * Native in French  
   
 * **Programming (advanced level)**  
-  * Python, R, Matlab, Stata, LateX, Git
+  * Python, R, Matlab, Stata, TeX, Git
 
 
 ## Software development (open-source)  
