@@ -108,6 +108,8 @@ including policy publications*
 
 * [Growth at Risk: Density Forecasting via Quantile Regressions and Parametric
 Fit](https://github.com/IMFGAR/GaR) 
+ * *With Changchun Wang (also at the IMF), who designed the Excel-Python interface*
+ * *Used by more than twenty central banks in the world*
 
 * [Distributional GaRCH model to design FX Interventions for Central
 Banks](https://github.com/romainlafarguette/varfxi) 
