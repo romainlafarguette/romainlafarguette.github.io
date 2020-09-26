@@ -11,13 +11,13 @@ author_profile: true
 
 ### Democratic Republic of Congo (2020)
 * International Monetary Fund, program negotiations 
-  * Supported the country team as monetary economist for the Rapid Credit
+  * Supported the country team as the monetary economist for the Rapid Credit
     Facility (RCF) program
 
 ### People's Republic of China (2019)
 * International Monetary Fund, technical assistance mission to the People's
     Bank of China 
-  * Financial modeling
+  * Financial modeling, model design and implementation on the ground
 
 ### United States (2019)
 * Part of the International Monetary Fund recruitment team for the Economist Program (EP) 

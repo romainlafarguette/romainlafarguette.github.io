@@ -94,8 +94,8 @@ including policy publications*
 * **Programming (advanced level)**  
   * Python, R, Matlab, Stata, TeX, Git
 
-* **Statistics (with publications)**
-  * Standard linear statistics, time series and panel inference, etc.  
+* **Quantitative skills (with publications)**
+  * Standard linear econometrics, time series and panel inference, etc.  
   * Sampling methods, Bayesian statistics  
   * Density estimation and forecasting  
   * Non-parametric statistics, kernel estimation  
