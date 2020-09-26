@@ -16,14 +16,14 @@ I have expertise in central bank operations, monetary policy, modeling &
 forecasting, and stress-testing. I also have general macroeconomics skills, with
 country work experience, with a focus on emerging markets.  
 
-I  work  for the  Monetary  and  Capital Markets  Department  of  the IMF.  
-My responsibilities include:
+I  work  for the  Monetary  and  Capital Markets  Department  of  the IMF. My responsibilities include:
 1. [IMF country missions](https://romainlafarguette.github.io/country/),
 2.  [Academic research](https://romainlafarguette.github.io/research/)
    in financial economics and econometrics
 3.      [Statistical software       development      for      central       banks      and
    economists](https://romainlafarguette.github.io/software/), with a focus on
    density forecasting. You  can  find  them   on  my  [Github page](https://github.com/romainlafarguette)
+
 
 My recent research interests covers:
 - Central bank operations and monetary policy
