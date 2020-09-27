@@ -42,7 +42,7 @@ efforts.*
 
 
 ### Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)
-[ECB Working Paper no 2300](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2300~68bda93b78.en.pdf) With Giancarlo Corsetti and Arnaud Mehl
+[ECB Working Paper No. 2300](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2300~68bda93b78.en.pdf) With Giancarlo Corsetti and Arnaud Mehl
 
 *Focusing on the  foreign exchange reaction to  macroeconomic announcements, we
 show that  fast trading  is positively and  significantly correlated  with the

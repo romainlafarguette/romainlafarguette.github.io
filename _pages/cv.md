@@ -55,21 +55,19 @@ including policy publications*
   * *With Romain Veyrune*
 
 * **Predictive Density Aggregation: A Model for Global GDP Growth (2020)** 
-  * [IMF Working Paper no 20/78](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441) *with Francesca Caselli, Francesco Grigoli and Changchun Wang*
+  * [IMF Working Paper No. 20/78](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441) *with Francesca Caselli, Francesco Grigoli and Changchun Wang*
   
 * **Growth at Risk: Concept and Application in IMF Country Surveillance (2019)**
-  * [IMF Working Paper no
-    19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567) *with Prasad et al.*
+  * [IMF Working Paper No. 19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567) *with Prasad et al.*
   
 * **Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)** 
-  * [ECB Working Paper no 2300](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2300~68bda93b78.en.pdf) *with Giancarlo Corsetti and Arnaud Mehl*
+  * [ECB Working Paper No. 2300](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2300~68bda93b78.en.pdf) *with Giancarlo Corsetti and Arnaud Mehl*
 
 * **Can Countries Manage Their Financial Conditions Amid Globalization? (2018)**
   * [IMF Working Paper No. 18/15](https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-Their-Financial-Conditions-Amid-Globalization-45581) *with Nicolas Arregui, Selim Elekdag, Gaston Gelos and Dulani Seneviratne*
       
 * **Thick vs. Thin-Skinned:  Technology, News, and Financial Market Reaction (2017)** 
-  *  [IMF working Paper
-  No. 17/91](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810) *with Barry Eichengreen and Arnaud Mehl*
+  *  [IMF working Paper No. 17/91](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810) *with Barry Eichengreen and Arnaud Mehl*
 
 * **Cables, Sharks and Servers: Technology and the Geography of the Foreign
   Exchange Market (2016)** 
@@ -78,7 +76,7 @@ including policy publications*
 
 * **Understanding Household Savings in China: the Role of the Housing Market
  and Borrowing Constraints (2013)**
-   * [MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html) *with Matthieu Bussiere, Yannick Kalantzis and Terry Sicular* 
+   * [MPRA Paper No. 44611](https://ideas.repec.org/p/pra/mprapa/44611.html) *with Matthieu Bussiere, Yannick Kalantzis and Terry Sicular* 
   
 
 ## Skills  
