@@ -125,7 +125,7 @@ trading venue, by as much as one-third.*
 
 
 ### Understanding Household Savings in China: the Role of the Housing Market & Borrowing Constraints (2013) 
-[MPRA Paper 44611](https://ideas.repec.org/p/pra/mprapa/44611.html) with Matthieu Bussière (Banque de France), Yannick Kalantzis (Banque de
+[MPRA Paper No. 44611](https://ideas.repec.org/p/pra/mprapa/44611.html) with Matthieu Bussière (Banque de France), Yannick Kalantzis (Banque de
 France) and Terry Sicular (Western Ontario) 
 
 *This  paper  examines  the  role   of  rising  housing  prices  and  borrowing
