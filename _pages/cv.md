@@ -80,16 +80,16 @@ including policy publications*
   
 
 ## Skills  
-* **Languages**  
+* **Human Languages**  
   * Fluent in Chinese Mandarin  
    *Six years in China, curriculum taught in Mandarin*  
   * Fluent in English  
   * Native in French  
   
-* **Programming (advanced level)**  
+* **Programming Languages (advanced level)**  
   * Python, R, Matlab, Stata, TeX, Git
 
-* **Quantitative skills (with publications)**
+* **Econometrics and Statistics (with publications)**
   * Standard linear econometrics, time series and panel inference, etc.  
   * Sampling methods, Bayesian statistics  
   * Density estimation and forecasting  
