@@ -60,19 +60,17 @@ including policy publications*
   
 * **Growth at Risk: Concept and Application in IMF Country Surveillance (2019)**
   * [IMF Working Paper no
-    19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
-    *with Prasad et al.*
+    19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567) *with Prasad et al.*
   
 * **Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)** 
-  * *With Giancarlo Corsetti and Arnaud Mehl*
+  * [ECB Working Paper no 2300](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2300~68bda93b78.en.pdf) *with Giancarlo Corsetti and Arnaud Mehl*
 
 * **Can Countries Manage Their Financial Conditions Amid Globalization? (2018)**
   * [IMF Working Paper No. 18/15](https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-Their-Financial-Conditions-Amid-Globalization-45581) *with Nicolas Arregui, Selim Elekdag, Gaston Gelos and Dulani Seneviratne*
       
 * **Thick vs. Thin-Skinned:  Technology, News, and Financial Market Reaction (2017)** 
   *  [IMF working Paper
-  No. 17/91](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810)
-  *with Barry Eichengreen and Arnaud Mehl*
+  No. 17/91](https://www.imf.org/en/Publications/WP/Issues/2017/04/07/Thick-vs-44810) *with Barry Eichengreen and Arnaud Mehl*
 
 * **Cables, Sharks and Servers: Technology and the Geography of the Foreign
   Exchange Market (2016)** 
