@@ -125,6 +125,10 @@ Fit](https://github.com/IMFGAR/GaR)
 * [Distributional GaRCH model to design FX Interventions for Central
 Banks](https://github.com/romainlafarguette/varfxi) 
 
+
+* [Granular Instrumental Variables (from Gabaix and Koijen 2020)](https://github.com/romainlafarguette/granulariv) 
+
+
 * [Quantile Local Projections](https://github.com/romainlafarguette/quantileproj)
 
 
