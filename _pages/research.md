@@ -6,9 +6,36 @@ author_profile: true
 sitemap: false
 ---
 
+
+### Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2020)
+Draft available soon. With Tobias Adrian and Jose Berrospide
+
+
+### Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020) 
+Draft available soon. With Romain Veyrune
+
+*This  paper  presents  a  new   rule  for  central  banks'  foreign  exchange
+interventions, using the concept of  Value-at-Risk (VaR). The VaR-rule is used
+to design an intervention policy that  consistently transfers a given share of
+exchange  rate  risk from  the  market  to  the  central bank  balance  sheet,
+depending  on  the  economy  exposure  to  exchange  rate  risk.  A  VaR-based
+intervention  rule is  desirable for  countries under  floating exchange  rate
+arrangements, where central banks intervene  on the foreign exchange market to
+preserve financial stability.  This approach is consistent with  the price and
+financial  stability  mandates  of  many central  banks,  including  inflation
+targeters. VaR-rule has other appealing  features for central banks, including
+being forward-looking and budget neutral over the medium term. The paper shows
+that  VaR interventions  would bring  substantial benefits  compared to  other
+rules,  such as  fixed-volatility rules,  or discretionary  interventions. The
+model is  back tested  on publicly available  Banco Mexico’s  FX interventions
+data,  between  2008 and  2016,  both  rule-  and discretion-based.  The  test
+concludes that rules perform better  that discretion and VaR-based better than
+fixed-volatility rules from a risk point of view.*
+
+
 ### Predictive Density Aggregation: A Model for Global GDP Growth (2020) 
 [IMF Working Paper No. 20/78](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
-with Francesca Caselli, Francesco Grigoli and Changchun Wang
+with Francesca Caselli, Francesco Grigoli and Changchun Wang. 
 
 *We propose  a novel approach to  obtain the predictive density  of global GDP
 growth.  It hinges  upon a  bottom-up probabilistic  model that  estimates and
