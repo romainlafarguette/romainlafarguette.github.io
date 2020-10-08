@@ -6,12 +6,6 @@ author_profile: true
 sitemap: false
 ---
 
-
-### Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2020)
-Draft available soon. With Tobias Adrian (IMF) and Jose Berrospide (US Federal
-Reserve Board).
-
-
 ### Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020) 
 Draft available soon. With Romain Veyrune (IMF).
 
