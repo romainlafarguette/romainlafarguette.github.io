@@ -8,11 +8,12 @@ sitemap: false
 
 
 ### Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2020)
-Draft available soon. With Tobias Adrian and Jose Berrospide
+Draft available soon. With Tobias Adrian (IMF) and Jose Berrospide (Federal
+Reserve Board).
 
 
 ### Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020) 
-Draft available soon. With Romain Veyrune
+Draft available soon. With Romain Veyrune (IMF).
 
 *This  paper  presents  a  new   rule  for  central  banks'  foreign  exchange
 interventions, using the concept of  Value-at-Risk (VaR). The VaR-rule is used
@@ -35,7 +36,7 @@ fixed-volatility rules from a risk point of view.*
 
 ### Predictive Density Aggregation: A Model for Global GDP Growth (2020) 
 [IMF Working Paper No. 20/78](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
-with Francesca Caselli, Francesco Grigoli and Changchun Wang. 
+with Francesca Caselli, Francesco Grigoli and Changchun Wang (all IMF). 
 
 *We propose  a novel approach to  obtain the predictive density  of global GDP
 growth.  It hinges  upon a  bottom-up probabilistic  model that  estimates and
@@ -54,7 +55,7 @@ distribution. Out-of-sample metrics confirm the accuracy of our approach.*
 
 ### Growth-at-Risk: Concept and Application in IMF Country Surveillance (2019)
 [IMF Working Paper No. 19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
-with Prasad et al.
+with Changchun Wang and others (all IMF).
 
 *The Growth-at-Risk (GaR) framework links current macrofinancial conditions to
 the distribution of future growth. Its  main strength is its ability to assess
@@ -69,7 +70,9 @@ efforts.*
 
 
 ### Fast Trading and the Virtue of Entropy: Evidence from the Foreign Exchange Market (2018)
-[ECB Working Paper No. 2300](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2300~68bda93b78.en.pdf) With Giancarlo Corsetti and Arnaud Mehl
+[ECB Working Paper
+No. 2300](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2300~68bda93b78.en.pdf)
+With Giancarlo Corsetti (Cambridge) and Arnaud Mehl (ECB).
 
 *Focusing on the  foreign exchange reaction to  macroeconomic announcements, we
 show that  fast trading  is positively and  significantly correlated  with the
@@ -91,7 +94,7 @@ enhanced heterogeneity in trading patterns.*
 
 ### Can Countries Manage Their Financial Conditions Amid Globalization? (2018) 
 [IMF Working Paper No. 18/15](https://www.imf.org/en/Publications/WP/Issues/2018/01/24/Can-Countries-Manage-Their-Financial-Conditions-Amid-Globalization-45581)
-with Nicolas Arregui, Selim Elekdag, Gaston Gelos and Dulani Seneviratne
+with Nicolas Arregui, Selim Elekdag, Gaston Gelos and Dulani Seneviratne (all IMF).
 
 *This  paper  examines the  evolving  importance  of common  global  components
 underlying  domestic financial  conditions. It  develops financial  conditions
