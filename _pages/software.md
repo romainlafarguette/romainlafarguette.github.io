@@ -48,6 +48,15 @@ paper when using the tools.
   Exchange Interventions Rules  for Central Banks: A  Risk-Based Framework", IMF
   Working Paper
 
+
+### Granular Instrumental Variables from Gabaix and Koijen (2020)
+* [Github repo](https://github.com/romainlafarguette/granulariv)
+* Python module to estimate the Granular Instrumental Variables from Gabaix
+  and Koijen (2020)
+  
+* The panel regressions are based on linearmodels from Kevin Sheppard
+
+
 ### Quantile Local Projections
 * [Github repo](https://github.com/romainlafarguette/quantileproj)  
 * Python module to estimate quantile local projections, and produce useful
