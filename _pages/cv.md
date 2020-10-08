@@ -52,10 +52,10 @@ redirect_from:
 including policy publications*  
 
 * **Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2020)**
-  * *With Tobias Adrian (IMF) and Jose Berrospide (US Federal Reserve Board).*
+  * Draft available soon. *With Tobias Adrian (IMF) and Jose Berrospide (US Federal Reserve Board).*
 
 * **Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020)**
-  * *With Romain Veyrune (IMF).*
+  * Draft available soon. *With Romain Veyrune (IMF).*
 
 * **Predictive Density Aggregation: A Model for Global GDP Growth (2020)** 
   * [IMF Working Paper
