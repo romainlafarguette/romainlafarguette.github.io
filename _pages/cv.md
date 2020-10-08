@@ -91,7 +91,7 @@ including policy publications*
  and Borrowing Constraints (2013)**
    * [MPRA Paper No. 44611](https://ideas.repec.org/p/pra/mprapa/44611.html)
      *with Matthieu Bussiere, Yannick Kalantzis (Banque de France) and Terry
-     Sicular (Ontario)* 
+     Sicular (Western Ontario)* 
   
 
 ## Skills  

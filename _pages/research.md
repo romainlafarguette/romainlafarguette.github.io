@@ -8,7 +8,7 @@ sitemap: false
 
 
 ### Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2020)
-Draft available soon. With Tobias Adrian (IMF) and Jose Berrospide (Federal
+Draft available soon. With Tobias Adrian (IMF) and Jose Berrospide (US Federal
 Reserve Board).
 
 
