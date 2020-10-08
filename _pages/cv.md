@@ -19,8 +19,8 @@ redirect_from:
       
 
 * **European Central Bank, Portfolio Manager and Economist**
-  * 2015-2016 : DG Financial Stability, financial regulations 
-  * 2014-2015 : DG Market Operations, foreign reserves management, trading desk 
+  * 2015-2016 : DG Financial Stability, financial regulations (GP)
+  * 2014-2015 : DG Market Operations, foreign reserves management, trading desk (GP)
   * 2013-2014 : DG International Relations, exchange rate modeling  
 
 *Country missions to a dozen of countries, including to China, Hong-Kong SAR, India, Israel, Peru, etc.*  
