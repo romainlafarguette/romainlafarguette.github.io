@@ -37,7 +37,7 @@ redirect_from:
   * **Ph.D in Economics**, Peking University & Paris School of Economics (2017)  
     *Six years in China, curriculum entirely done in Chinese Mandarin*  
   * **M.Res, *Normalien***, Ecole Normale Superieure Paris Saclay (2011)  
-    *Ranked first at France's national entrance competition*
+    *Ranked first at France's national entrance competition (major du concours d'entrée)*
   * **M.A in Philosophy**, Paris Sorbonne University (2009)  
     *Major in Epistemology and Philosophy of Medicine*
   * **M.Eng. in Applied Mathematics**, ENSAE Paris (2009)  
