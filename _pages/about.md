@@ -37,7 +37,7 @@ details [here](https://romainlafarguette.github.io/country/)).
 
 My research interests covers:
 - Risk modeling and density forecasting
-- Central bank operations and implementation of monetary policy
+- Central bank operations and monetary policy
 - Financial stability and stress-testing
 
 I started  my career  at the  European Central  Bank, as  an economist  in the
