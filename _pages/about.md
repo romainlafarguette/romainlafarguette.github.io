@@ -44,7 +44,7 @@ programs.  Later,  I worked as an  economist for the ECB  Directorate Generate
 Macroprudential Policy and Financial Stability.
 
 I hold  an engineering degree  in applied mathematics  from ENSAE Paris  and a
-Ph.D.  in economics  from Peking University and Paris School  of Economics.  I
+Ph.D.  in economics from Peking University and the Paris School of Economics.  I
 am a former  student of the Ecole Normale Superieure  of Paris-Saclay.  I have
 spent more than six years in China for my Ph.D., I speak
 fluently Chinese Mandarin, English and French.  
@@ -56,4 +56,4 @@ also find me on [LinkedIn](https://www.linkedin.com/in/romain-lafarguette-罗哲
 
 **Disclaimer**: This  is my private website.  The views expressed here  are my
 own and do  not necessarily reflect those of the  International Monetary Fund,
-its management, or its executive directors.
+its management, its Executive Board, or member governments.
