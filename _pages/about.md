@@ -10,7 +10,9 @@ redirect_from:
 ---
 
 Welcome to the website of Romain Lafarguette (罗哲文), Ph.D., economist at the
-International Monetary Fund (IMF) in Washington D.C. 
+International Monetary Fund  (IMF) in Washington D.C. On this  website you can
+find an overview  of my research and  my policy work, computer  codes, a short
+bio, and contact information.
 
 I have  expertise in  central bank operations,  monetary policy,  modeling and
 forecasting,  as   well  as   bank  stress-testing.    I  also   have  general
@@ -41,12 +43,21 @@ My research interests covers:
 I started  my career  at the  European Central  Bank, as  an economist  in the
 Directorate  General of  Market  Operations.  I  was part  of  the team  which
 designed and negotiated  with the People's Bank of China  the RMB portfolio of
-the Eurosystem.  I  also contributed to the ECB  securities purchase programs.
-Later,  I   worked  as   an  economist  for   the  ECB   Directorate  Generate
-Macroprudential Policy and Financial Stability.
+the  Eurosystem foreign  exchange reserves.   I  also contributed  to the  ECB
+securities purchase  programs.  Later, I  worked as  an economist for  the ECB
+Directorate Generate Macroprudential Policy and Financial Stability.
 
-I hold an engineering degree in applied mathematics from and a Ph.D. in economics.
-I am a former student of the Ecole Normale Superieure of Paris-Saclay. I have spent more than six years in China for my Ph.D., I speak fluently Chinese Mandarin, English and French.  
+I hold  an engineering degree  in applied mathematics  from ENSAE Paris  and a
+Ph.D.  in economics  from Peking University and Paris School  of Economics.  I
+am a former  student of the Ecole Normale Superieure  of Paris-Saclay.  I have
+spent more than six years in China for my Ph.D., I speak
+fluently Chinese Mandarin, English and French.  
 
-I am very active on [Github](https://github.com/romainlafarguette). You can also find me on [LinkedIn](https://www.linkedin.com/in/romain-lafarguette-罗哲文-24482a17/), [Vox](http://www.voxeu.org/person/romain-lafarguette) and [Repec](http://www.voxeu.org/person/romain-lafarguette)
+I am very active on [Github](https://github.com/romainlafarguette). You can
+also find me on [LinkedIn](https://www.linkedin.com/in/romain-lafarguette-罗哲
+文-24482a17/), [Vox](http://www.voxeu.org/person/romain-lafarguette) and
+[Repec](http://www.voxeu.org/person/romain-lafarguette)  
 
+**Disclaimer**: This  is my private website.  The views expressed here  are my
+own and do  not necessarily reflect those of the  International Monetary Fund,
+its management, or its executive directors.
