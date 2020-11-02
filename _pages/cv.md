@@ -14,7 +14,7 @@ redirect_from:
 
 * **International Monetary Fund, Economist**
   * 2019- now : Monetary and Capital Markets Department, Central Bank Operations 
-  * 2018-2019 : European Department, South-Eastern Europe (EP)
+  * 2018-2019 : European Department, South-Eastern Europe desk (EP)
   * 2016-2018 : Monetary and Capital Markets Department, Global Financial Stability Analysis (EP)  
       
 
