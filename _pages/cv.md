@@ -51,8 +51,8 @@ redirect_from:
 *See [here](https://romainlafarguette.github.io/research/) for more details,
 including policy publications*  
 
-* **Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2020)**
-  *With Tobias Adrian (IMF) and Jose Berrospide (Federal Reserve Board). Draft available soon.* 
+* **Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2020)**  
+  * *With Tobias Adrian (IMF) and Jose Berrospide (Federal Reserve Board). Draft available soon.* 
 
 * **Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020)**
   * *With Romain Veyrune (IMF). Draft available soon.* 
@@ -102,7 +102,7 @@ including policy publications*
   * Native in French  
   
 * **Programming Languages (advanced level)**  
-  * Python (including just-in-time compilation with Numba), R, Matlab, Stata, TeX, Git
+  * Python, R, Matlab, Stata, TeX, Git
 
 * **Econometrics and Statistics (with publications)**
   * Standard linear econometrics, time series and panel inference, etc.  
