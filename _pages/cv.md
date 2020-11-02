@@ -13,11 +13,9 @@ redirect_from:
 ## Work Experience
 
 * **International Monetary Fund, Economist**
-  * 2019- now : Monetary and Capital Markets Department, Central Bank
-    Operations 
-  * 2018-2019 : European department (EP), South-Eastern Europe 
-  * 2016-2018 : Monetary and Capital Markets Department (EP), Global Financial
-  Stability Analysis  
+  * 2019- now : Monetary and Capital Markets Department, Central Bank Operations 
+  * 2018-2019 : European Department, South-Eastern Europe (EP)
+  * 2016-2018 : Monetary and Capital Markets Department, Global Financial Stability Analysis (EP)  
       
 
 * **European Central Bank, Portfolio Manager and Economist**
