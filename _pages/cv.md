@@ -13,17 +13,17 @@ redirect_from:
 ## Work Experience
 
 * **International Monetary Fund, Economist**
-  * 2019- now : Monetary and Capital Markets department, Central Bank
-    Operations division
-  * 2018-2019 : European department (EP), South-Eastern Europe desk
-  * 2016-2018 : Monetary and Capital Markets department (EP), Global Financial
-  Stability Analysis division  
+  * 2019- now : Monetary and Capital Markets Department, Central Bank
+    Operations 
+  * 2018-2019 : European department (EP), South-Eastern Europe 
+  * 2016-2018 : Monetary and Capital Markets Department (EP), Global Financial
+  Stability Analysis  
       
 
 * **European Central Bank, Portfolio Manager and Economist**
-  * 2015-2016 : DG Financial Stability, Financial Regulations division (GP)
+  * 2015-2016 : DG Financial Stability, Financial Regulations (GP)
   * 2014-2015 : DG Market Operations, Foreign Reserves Management, trading desk (GP)
-  * 2013-2014 : DG International Relations, International Policy Analysis division  
+  * 2013-2014 : DG International Relations, International Policy Analysis  
 
 *Country missions to a dozen of countries, including to China, Hong-Kong SAR, India, Israel, Peru, etc.*  
 *Please see [here](https://romainlafarguette.github.io/country/) for the full list*  
