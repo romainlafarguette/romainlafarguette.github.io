@@ -42,7 +42,7 @@ redirect_from:
     *Major in Epistemology and Philosophy of Medicine*
   * **M.Eng. in Applied Mathematics**, ENSAE Paris (2009)  
     *Major in Statistics*
-  * Undergrad in Mathematics and Philosophy, CPGE Henri IV Paris (2005)  
+  * **Undergrad in Mathematics and Philosophy**, CPGE Henri IV Paris (2005)  
   * Military High-School, Prytanee National Militaire de La Fleche (2003)  
    *Scientific section*
 
