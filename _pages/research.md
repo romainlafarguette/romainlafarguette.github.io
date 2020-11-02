@@ -8,8 +8,8 @@ sitemap: false
 
 
 ### Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2020)
-Draft available soon. With Tobias Adrian (IMF) and Jose Berrospide (Federal
-Reserve Board).
+With Tobias Adrian (IMF) and Jose Berrospide (Federal
+Reserve Board). Draft available soon. 
 
 *We develop  a framework  to assess  macrofinancial vulnerabilities  across the
 business  and financial  cycles, and  to calibrate  a countercyclical  capital
@@ -27,7 +27,7 @@ calibrate the size and the timing of the CCyB, as the capital needed to offset
 the macrofinancial feedback across the business cycle.*
 
 ### Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020) 
-Draft available soon. With Romain Veyrune (IMF).
+With Romain Veyrune (IMF). Draft available soon. 
 
 *This  paper  presents  a  new   rule  for  central  banks'  foreign  exchange
 interventions, using the concept of  Value-at-Risk (VaR). The VaR-rule is used
