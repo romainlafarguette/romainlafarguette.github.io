@@ -13,15 +13,17 @@ redirect_from:
 ## Work Experience
 
 * **International Monetary Fund, Economist**
-  * 2019- now : Monetary and Capital Markets department
-  * 2018-2019 : European department (EP)
-  * 2016-2018 : Monetary and Capital Markets department (EP)  
+  * 2019- now : Monetary and Capital Markets department, Central Bank
+    Operations division
+  * 2018-2019 : European department (EP), South-Eastern Europe desk
+  * 2016-2018 : Monetary and Capital Markets department (EP), Global Financial
+  Stability Analysis division  
       
 
 * **European Central Bank, Portfolio Manager and Economist**
-  * 2015-2016 : DG Financial Stability, financial regulations (GP)
-  * 2014-2015 : DG Market Operations, foreign reserves management, trading desk (GP)
-  * 2013-2014 : DG International Relations, exchange rate modeling  
+  * 2015-2016 : DG Financial Stability, Financial Regulations division (GP)
+  * 2014-2015 : DG Market Operations, Foreign Reserves Management, trading desk (GP)
+  * 2013-2014 : DG International Relations, International Policy Analysis division  
 
 *Country missions to a dozen of countries, including to China, Hong-Kong SAR, India, Israel, Peru, etc.*  
 *Please see [here](https://romainlafarguette.github.io/country/) for the full list*  
@@ -51,8 +53,11 @@ redirect_from:
 *See [here](https://romainlafarguette.github.io/research/) for more details,
 including policy publications*  
 
+* **Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2020)**
+*With Tobias Adrian (IMF) and Jose Berrospide (Federal Reserve Board). Draft available soon.* 
+
 * **Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020)**
-  * Draft available soon. *With Romain Veyrune (IMF).*
+  * *With Romain Veyrune (IMF). Draft available soon.* 
 
 * **Predictive Density Aggregation: A Model for Global GDP Growth (2020)** 
   * [IMF Working Paper

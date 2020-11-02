@@ -6,6 +6,26 @@ author_profile: true
 sitemap: false
 ---
 
+
+### Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2020)
+Draft available soon. With Tobias Adrian (IMF) and Jose Berrospide (Federal
+Reserve Board).
+
+*We develop  a framework  to assess  macrofinancial vulnerabilities  across the
+business  and financial  cycles, and  to calibrate  a countercyclical  capital
+buffer (CCyB)  to account  for those  vulnerabilities in  the context  of bank
+stress tests. A  parsimonious model captures the  dynamic relationship between
+bank  capital, financial  conditions, and  GDP growth,  quantifies the  causal
+impact  of shocks  to bank  capital on  the future  distribution of  financial
+conditions  and   future  downside   risks  to   GDP  growth,   and  estimates
+macrofinancial  feedback  effects.   Our   model  calibrates  a  bank  capital
+surcharge, the  additional bank capital  that accounts for  the macrofinancial
+feedback---typically overlooked  in bank  stress tests---as  a macroprudential
+tool  to  avert banks'  amplification  of  shocks  to  the economy.   Using  a
+Growth-at-Risk  based metric  as a  measure of  financial stability  risks, we
+calibrate the size and the timing of the CCyB, as the capital needed to offset
+the macrofinancial feedback across the business cycle.*
+
 ### Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020) 
 Draft available soon. With Romain Veyrune (IMF).
 
