@@ -104,7 +104,7 @@ including policy publications*
 * **Programming Languages (advanced level)**  
   * Python, R, Matlab, Stata, TeX, Git
 
-* **Econometrics and Statistics (with publications)**
+* **Econometrics and Statistics**
   * Standard linear econometrics, time series and panel inference, etc.  
   * Sampling methods, Bayesian statistics  
   * Density estimation and forecasting  
