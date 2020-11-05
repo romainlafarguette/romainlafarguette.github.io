@@ -35,7 +35,7 @@ My research interests covers:
 
 I started my  career at the European Central Bank,  in the Directorate General
 of Market Operations, where I managed  the Chinese RMB portfolio Eurosystem FX
-reserves and  was involved to  the ECB  securities purchase programs.   I also
+reserves and  was involved in  the ECB  securities purchase programs.   I also
 worked for the  ECB Directorate Generate Macroprudential  Policy and Financial
 Stability.
 
