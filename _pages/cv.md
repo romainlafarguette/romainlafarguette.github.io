@@ -13,35 +13,29 @@ redirect_from:
 ## Work Experience
 
 * **International Monetary Fund, Economist**
-  * 2019- now : Monetary and Capital Markets Department, Central Bank Operations 
+  * 2019- now : Monetary and Capital Markets Department, Central Bank Operations division
   * 2018-2019 : European Department, South-Eastern Europe desk (EP)
-  * 2016-2018 : Monetary and Capital Markets Department, Global Financial Stability Analysis (EP)  
-      
-
+  * 2016-2018 : Monetary and Capital Markets Department, Global Financial
+  Stability Analysis division (EP)  
+    
 * **European Central Bank, Portfolio Manager and Economist**
-  * 2015-2016 : DG Financial Stability, Financial Regulations (GP)
+  * 2015-2016 : DG Financial Stability, Financial Regulations division (GP)
   * 2014-2015 : DG Market Operations, Foreign Reserves Management, trading desk (GP)
-  * 2013-2014 : DG International Relations, International Policy Analysis  
+  * 2013-2014 : DG International Relations, International Policy Analysis division  
 
-*Country missions to a dozen of countries, including to China, Hong-Kong SAR, India, Israel, Peru, etc.*  
+*Country missions to many countries, including to China, Hong-Kong SAR, India, Israel, Peru, etc.*  
 *Please see [here](https://romainlafarguette.github.io/country/) for the full list*  
-
-* **Short-term positions**
-  * French embassy in China, Financial Office (2011-2012)
-  * Banque de France, International Department, Paris (2009)
-  * OECD, Paris (2007)
-  * French Embassy in Mali, Financial Office (2005)
 
 ## Education
 
   * **Ph.D in Economics**, Peking University & Paris School of Economics (2017)  
     *Six years in China, curriculum entirely done in Chinese Mandarin*  
-  * **M.Res, *Normalien***, Ecole Normale Superieure Paris Saclay (2011)  
-    *Ranked first at France's national entrance competition*
   * **M.A in Philosophy**, Paris Sorbonne University (2009)  
     *Major in Epistemology and Philosophy of Medicine*
   * **M.Eng. in Applied Mathematics**, ENSAE Paris (2009)  
     *Major in Statistics*
+  * **M.Res, *Normalien***, Ecole Normale Superieure Paris Saclay (2007)  
+    *Ranked first at France's national entrance competition*    
   * **Undergrad in Mathematics and Philosophy**, CPGE Henri IV Paris (2005)  
   * Military High-School, Prytanee National Militaire de La Fleche (2003)  
    *Scientific section*
@@ -101,7 +95,7 @@ including policy publications*
   * Fluent in English  
   * Native in French  
   
-* **Programming Languages (advanced level)**  
+* **Programming Languages**  
   * Python, R, Matlab, Stata, TeX, Git
 
 * **Econometrics and Statistics**
