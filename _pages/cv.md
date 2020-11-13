@@ -23,7 +23,7 @@ redirect_from:
   * 2014-2015 : DG Market Operations, Foreign Reserves Management, trading desk (GP)
   * 2013-2014 : DG International Relations, International Policy Analysis division  
 
-*Country missions to many countries, including to China, Hong-Kong SAR, India, Israel, Peru, etc.*  
+*Country missions to China, Hong-Kong SAR, India, Israel, Peru, etc.*  
 *Please see [here](https://romainlafarguette.github.io/country/) for the full list*  
 
 ## Education
