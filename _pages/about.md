@@ -22,11 +22,8 @@ IMF, central bank operations division. My responsibilities include:
    density forecasting. You  can  find  them   on  my  [Github page](https://github.com/romainlafarguette)
 
 I worked on more than a dozen countries for the IMF, covering  a wide range of
-policy  operations,  including  IMF  Article  IV  consultations,  IMF  Program
-Negotiations, Post-Program Monitoring, Financial Stability Assessment Program,
-and Technical Assistance.   My country experience includes  missions to China,
-Hong-Kong SAR,  India, Israel, Malaysia,  Peru, Singapore, etc.  (more details
-[here](https://romainlafarguette.github.io/country/)).
+policy  operations,  including  IMF  Program Negotiations, surveillance and technical assistance. My country experience includes  missions to China,
+Hong-Kong SAR,  India, Israel, Malaysia,  Peru, etc.  (more details [here](https://romainlafarguette.github.io/missions/)).
 
 My research interests covers:
 - Risk modeling and density forecasting

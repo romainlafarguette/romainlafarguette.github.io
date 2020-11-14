@@ -26,7 +26,9 @@ redirect_from:
 
 *Policy  experience includes  IMF missions  to more  than a  dozen of
 countries,  covering  IMF  program negotiations,  surveillance  and  technical
-assistance. For more details, see [here](https://romainlafarguette.github.io/missions/)*
+assistance. country experience includes  missions to China,
+Hong-Kong SAR, India, Israel, Malaysia, Peru, Singapore, etc.   
+For more details, see [here](https://romainlafarguette.github.io/missions/)*
 
 ## Education
 
