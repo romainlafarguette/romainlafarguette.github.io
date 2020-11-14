@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Country Missions"
-permalink: /country/
+title: "Missions"
+permalink: /missions/
 author_profile: true
 ---
 

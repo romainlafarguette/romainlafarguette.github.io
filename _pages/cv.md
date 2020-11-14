@@ -28,8 +28,6 @@ redirect_from:
 countries,  covering  IMF  program negotiations,  surveillance  and  technical
 assistance. For more details, see [here](https://romainlafarguette.github.io/missions/)*
 
-
-
 ## Education
 
   * **Ph.D in Economics**, Peking University & Paris School of Economics (2017)  
