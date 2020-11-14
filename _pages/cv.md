@@ -10,6 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+Pdf version [here](https://github.com/romainlafarguette/lafarguette-resume/blob/main/lafarguette_resume.pdf)  
+
 ## Work Experience
 
 * **International Monetary Fund, Economist**
