@@ -31,7 +31,7 @@ Pdf version [here](https://github.com/romainlafarguette/lafarguette-resume/blob/
 countries,  covering  IMF  program negotiations,  surveillance  and  technical
 assistance.*  
 
-*Country experience includes missions to China, Hong-Kong SAR, India, Israel, Malaysia, Peru, etc.   
+*Missions to China, Hong-Kong SAR, India, Israel, Malaysia, Peru, etc.   
 For more details, see [here](https://romainlafarguette.github.io/missions/)* 
 
 
