@@ -29,7 +29,7 @@ My recent research work focuses on:
 I am very active on [Github](https://github.com/romainlafarguette). You can
 also find me on [LinkedIn](https://www.linkedin.com/in/romain-lafarguette-罗哲
 文-24482a17/), [Vox](http://www.voxeu.org/person/romain-lafarguette) and
-[Repec](http://www.voxeu.org/person/romain-lafarguette)  
+[IDEAS/RePEc](https://ideas.repec.org/f/pla661.html)  
 
 **Disclaimer**: This  is my private website.  The views expressed here  are my
 own and do  not necessarily reflect those of the  International Monetary Fund,
