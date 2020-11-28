@@ -6,59 +6,58 @@ author_profile: true
 ---
 
 ### Tunisia (2020)
-* International Monetary Fund, technical assistance mission with the Central Bank of Tunisia
+* IMF technical assistance mission with the Central Bank of Tunisia
   * Liquidity forecasting
 
 ### Advanced G20 Country (2020)
-* International Monetary Fund, **confidential** technical assistance mission 
+* IMF **confidential** technical assistance mission 
   * Foreign reserves management
 
 ### Morocco (2020)
-* International Monetary Fund, technical assistance mission to the Bank Al-Maghrib 
+* IMF technical assistance mission to the Bank Al-Maghrib 
   * Foreign exchange interventions
 
 ### Democratic Republic of Congo (2020)
-* International Monetary Fund, program negotiations 
+* IMF program negotiations 
   * Supported the country team as the monetary economist for the Rapid Credit
     Facility (RCF) program
 
-### People's Republic of China (2019)
-* International Monetary Fund, technical assistance mission to the People's
-    Bank of China 
+### People's Republic of China (2019, mission chief)
+* IMF technical assistance mission to the People's Bank of China 
   * Financial modeling, model design and implementation on the ground
 
 ### United States (2019)
-* Part of the International Monetary Fund recruitment team for the Economist Program (EP) 
+* IMF recruitment team for the Economist Program (EP) 
   * Universities of Chicago, Northwestern, Minnesota, Michigan
 
 ### Hong-Kong SAR (2019-2020)
-* International Monetary Fund, Financial System Stability Assessment Program 
+* IMF Financial System Stability Assessment Program 
   * Liquidity stress-testing
   * Central bank operations and systemic liquidity management
 
 ### India, Philippines, Malaysia, Singapore (2019)
-* International Monetary Fund, technical outreach
+* IMF technical outreach
   * Outreach about the IMF Growth-at-Risk model to central banks in
     the region and the Asian Development Bank
 
 ### Israel (2019)
-* International Monetary Fund, Article IV 
+* IMF Article IV 
   * External sector
   * Also supported the Bank of Israel with the implementation of a density
     forecasting model
 
 ### Albania (2018-2019)
-* International Monetary Fund, Post-Program Monitoring Report, Article IV
+* IMF Post-Program Monitoring Report, Article IV
   * Monetary, financial and real sectors
   * Four missions
 
 ### Peru (2018)
-* International Monetary Fund, Financial System Stability Assessment Program
+* IMF Financial System Stability Assessment Program
   * Using Growth-at-Risk for Macrofinancial Analysis and Forecasting. Application on Peru 
   * Liquidity Management in Peruvian Money Markets: A Financial Stability
       Perspective 
 
 ### People's Republic of China (2015)
-* European Central Bank, DG-Market Operations
+* European Central Bank, negotations mission
   * Negotiations with the People's Bank of China in Beijing and Shanghai to acquire RMB for the FX reserves of the Eurosystem
     
