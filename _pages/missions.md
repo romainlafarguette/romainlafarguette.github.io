@@ -5,6 +5,14 @@ permalink: /missions/
 author_profile: true
 ---
 
+### Tunisia (2020)
+* International Monetary Fund, technical assistance mission with the Central Bank of Tunisia
+  * Liquidity forecasting
+
+### Advanced G20 Country (2020)
+* International Monetary Fund, **confidential** technical assistance mission 
+  * Foreign Reserves Management
+
 ### Morocco (2020)
 * International Monetary Fund, technical assistance mission to the Bank Al-Maghrib 
   * Foreign exchange interventions
