@@ -11,7 +11,7 @@ author_profile: true
 
 ### Advanced G20 Country (2020)
 * International Monetary Fund, **confidential** technical assistance mission 
-  * Foreign Reserves Management
+  * Foreign reserves management
 
 ### Morocco (2020)
 * International Monetary Fund, technical assistance mission to the Bank Al-Maghrib 
