@@ -5,9 +5,13 @@ permalink: /missions/
 author_profile: true
 ---
 
+### West African Economic and Monetary Union (2021)
+* IMF Financial System Stability Assessment Program with the Central Bank of West African States
+  * Main stress-tester: scenario design, solvency stress-tests, etc.
+
 ### Tunisia (2020)
 * IMF technical assistance mission with the Central Bank of Tunisia
-  * Liquidity forecasting
+  * Liquidity management and modeling 
 
 ### Advanced G20 Country (2020)
 * IMF **confidential** technical assistance mission 
