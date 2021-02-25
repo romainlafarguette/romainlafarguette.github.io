@@ -27,7 +27,8 @@ calibrate the size and the timing of the CCyB, as the capital needed to offset
 the macrofinancial feedback across the business cycle.*
 
 ### Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020) 
-With Romain Veyrune (IMF). Draft available soon. 
+[IMF Working Paper No. 21/32](https://www.imf.org/en/Publications/WP/Issues/2021/02/12/Foreign-Exchange-Intervention-Rules-for-Central-Banks-A-Risk-based-Framework-50081)
+with Romain Veyrune (IMF). 
 
 *This  paper  presents  a  new   rule  for  central  banks'  foreign  exchange
 interventions, using the concept of  Value-at-Risk (VaR). The VaR-rule is used
