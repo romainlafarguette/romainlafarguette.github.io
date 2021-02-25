@@ -27,8 +27,8 @@ author_profile: true
 * IMF technical assistance mission with the Central Bank of Tunisia
   * Liquidity forecasting
 
-### Advanced G20 Country (2020)
-* IMF **confidential** technical assistance mission 
+### South Korea (2020)
+* IMF technical assistance mission 
   * Foreign reserves management
 
 ### Morocco (2020)
