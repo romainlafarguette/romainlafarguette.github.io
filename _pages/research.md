@@ -27,26 +27,24 @@ calibrate the size and the timing of the CCyB, as the capital needed to offset
 the macrofinancial feedback across the business cycle.*
 
 ### Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2021) 
-[IMF Working Paper No. 21/32](https://www.imf.org/en/Publications/WP/Issues/2021/02/12/Foreign-Exchange-Intervention-Rules-for-Central-Banks-A-Risk-based-Framework-50081)
+[IMF Working Paper
+No. 21/32](https://www.imf.org/en/Publications/WP/Issues/2021/02/12/Foreign-Exchange-Intervention-Rules-for-Central-Banks-A-Risk-based-Framework-50081)
 with Romain Veyrune (IMF). 
 
-*This  paper  presents  a  new   rule  for  central  banks'  foreign  exchange
-interventions, using the concept of  Value-at-Risk (VaR). The VaR-rule is used
-to design an intervention policy that  consistently transfers a given share of
-exchange  rate  risk from  the  market  to  the  central bank  balance  sheet,
-depending  on  the  economy  exposure  to  exchange  rate  risk.  A  VaR-based
-intervention  rule is  desirable for  countries under  floating exchange  rate
-arrangements, where central banks intervene  on the foreign exchange market to
-preserve financial stability.  This approach is consistent with  the price and
-financial  stability  mandates  of  many central  banks,  including  inflation
-targeters. VaR-rule has other appealing  features for central banks, including
-being forward-looking and budget neutral over the medium term. The paper shows
-that  VaR interventions  would bring  substantial benefits  compared to  other
-rules,  such as  fixed-volatility rules,  or discretionary  interventions. The
-model is  back tested  on publicly available  Banco Mexico’s  FX interventions
-data,  between  2008 and  2016,  both  rule-  and discretion-based.  The  test
-concludes that rules perform better  that discretion and VaR-based better than
-fixed-volatility rules from a risk point of view.*
+*This paper presents a rule for foreign exchange interventions (FXI), designed
+to preserve  financial stability in  floating exchange rate  arrangements. The
+FXI rule addresses a market failure:  the absence of hedging solution for tail
+exchange rate risk in the market  (i.e. high volatility). Market impairment or
+overshoot  of  exchange  rate  between  two  equilibria  could  generate  high
+volatility  and  threaten financial  stability  due  to unhedged  exposure  to
+exchange rate risk in the economy. The  rule uses the concept of Value at Risk
+(VaR) to define FXI triggers. While it  provides to the market a hedge against
+tail  risk, the  rule  allows the  exchange  rate to  smoothly  adjust to  new
+equilibria. In  addition, the  rule is  budget neutral  over the  medium term,
+encourages a prudent  risk management in the market, and  is more resilient to
+speculative  attacks than  other rules,  such as  fixed-volatility rules.  The
+empirical methodology is  backtested on Banco Mexico’s FXIs  data between 2008
+and 2016.*
 
 
 ### Predictive Density Aggregation: A Model for Global GDP Growth (2020) 
