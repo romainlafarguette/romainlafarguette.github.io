@@ -46,7 +46,6 @@ speculative  attacks than  other rules,  such as  fixed-volatility rules.  The
 empirical methodology is  backtested on Banco Mexico’s FXIs  data between 2008
 and 2016.*
 
-
 ### Predictive Density Aggregation: A Model for Global GDP Growth (2020) 
 [IMF Working Paper No. 20/78](https://www.imf.org/en/Publications/WP/Issues/2020/05/29/Predictive-Density-Aggregation-A-Model-for-Global-GDP-Growth-49441)
 with Francesca Caselli, Francesco Grigoli and Changchun Wang (all IMF). 

@@ -5,6 +5,14 @@ permalink: /missions/
 author_profile: true
 ---
 
+### Jordan (2021, mission chief - 4 people)
+* IMF technical assistance mission with the Central Bank of Djibouti
+  * Liquidity forecasting
+
+### Djibouti (2021, mission chief - 4 people)
+* IMF technical assistance mission with the Central Bank of Djibouti
+  * Liquidity forecasting
+
 ### Hong Kong SAR (2021)
 * IMF Financial System Stability Assessment Program with the Hong Kong SAR
   Monetary Authorities (HKMA)
@@ -17,7 +25,7 @@ author_profile: true
 
 ### Tunisia (2020)
 * IMF technical assistance mission with the Central Bank of Tunisia
-  * Liquidity management and modeling 
+  * Liquidity forecasting
 
 ### Advanced G20 Country (2020)
 * IMF **confidential** technical assistance mission 
