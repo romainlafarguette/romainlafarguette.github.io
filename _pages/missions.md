@@ -5,6 +5,12 @@ permalink: /missions/
 author_profile: true
 ---
 
+### Hong Kong SAR (2021)
+* IMF Financial System Stability Assessment Program with the Hong Kong SAR
+  Monetary Authorities (HKMA)
+  * Monetary operations and systemic liquidity management
+  * Commercial banks liquidity stress-testing
+
 ### West African Economic and Monetary Union (2021)
 * IMF Financial System Stability Assessment Program with the Central Bank of West African States
   * Main stress-tester: scenario design, solvency stress-tests, etc.
@@ -34,10 +40,10 @@ author_profile: true
 * IMF recruitment team for the Economist Program (EP) 
   * Universities of Chicago, Northwestern, Minnesota, Michigan
 
-### Hong-Kong SAR (2019-2020)
+### Hong Kong SAR (2019)
 * IMF Financial System Stability Assessment Program 
-  * Liquidity stress-testing
-  * Central bank operations and systemic liquidity management
+  * Monetary operations and systemic liquidity management
+  * Commercial banks liquidity stress-testing
 
 ### India, Philippines, Malaysia, Singapore (2019)
 * IMF technical outreach

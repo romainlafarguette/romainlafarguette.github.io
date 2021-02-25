@@ -27,7 +27,7 @@ Pdf version [here](https://github.com/romainlafarguette/lafarguette-resume/blob/
   * 2013-2014 : DG International Relations, International Policy Analysis division  
 
 
-*Policy  experience includes  IMF missions  to more  than a  dozen of
+*Policy  experience includes  IMF missions  to more  than 15
 countries,  covering  IMF  program negotiations,  surveillance  and  technical
 assistance.* 
 
@@ -52,11 +52,12 @@ assistance.*
 *See [here](https://romainlafarguette.github.io/research/) for more details,
 including policy publications*  
 
-* **Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2020)**  
+* **Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2021)**  
   * *With Tobias Adrian (IMF) and Jose Berrospide (Federal Reserve Board). Draft available soon.* 
 
-* **Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020)**
-  * *With Romain Veyrune (IMF). Draft available soon.* 
+* **Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2021)**
+  * [IMF Working Paper No. 21/32](https://www.imf.org/en/Publications/WP/Issues/2021/02/12/Foreign-Exchange-Intervention-Rules-for-Central-Banks-A-Risk-based-Framework-50081)
+*with Romain Veyrune (IMF).* 
 
 * **Predictive Density Aggregation: A Model for Global GDP Growth (2020)** 
   * [IMF Working Paper
