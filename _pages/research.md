@@ -7,7 +7,7 @@ sitemap: false
 ---
 
 
-### Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2020)
+### Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2021)
 With Tobias Adrian (IMF) and Jose Berrospide (Federal
 Reserve Board). Draft available soon. 
 
@@ -26,7 +26,7 @@ Growth-at-Risk  based metric  as a  measure of  financial stability  risks, we
 calibrate the size and the timing of the CCyB, as the capital needed to offset
 the macrofinancial feedback across the business cycle.*
 
-### Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2020) 
+### Foreign Exchange Interventions Rules for Central Banks: A Risk-Based Framework (2021) 
 [IMF Working Paper No. 21/32](https://www.imf.org/en/Publications/WP/Issues/2021/02/12/Foreign-Exchange-Intervention-Rules-for-Central-Banks-A-Risk-based-Framework-50081)
 with Romain Veyrune (IMF). 
 
