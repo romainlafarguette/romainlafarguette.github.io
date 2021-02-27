@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Jordan (2021, mission chief - 4 people)
-* IMF technical assistance mission with the Central Bank of Djibouti
+* IMF technical assistance mission with the Central Bank of Jordan
   * Liquidity forecasting
 
 ### Djibouti (2021, mission chief - 4 people)
