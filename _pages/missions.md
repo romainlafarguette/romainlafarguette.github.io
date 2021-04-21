@@ -5,6 +5,10 @@ permalink: /missions/
 author_profile: true
 ---
 
+### Namibia (2021, mission chief, team of four people)
+* IMF technical assistance mission with the Central Bank of Namibia
+  * Liquidity forecasting
+
 ### Jordan (2021, mission chief, team of four people)
 * IMF technical assistance mission with the Central Bank of Jordan
   * Liquidity forecasting
