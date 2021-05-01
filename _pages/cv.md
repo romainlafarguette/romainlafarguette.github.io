@@ -26,12 +26,9 @@ Pdf version [here](https://github.com/romainlafarguette/lafarguette-resume/blob/
   * 2014-2015 : DG Market Operations, Foreign Reserves Management, trading desk (GP)
   * 2013-2014 : DG International Relations, International Policy Analysis division  
 
+*IMF missions to more than 20 countries, including as mission chief, leading teams of three to four people on IMF technical assistance missions.* 
 
-*Policy  experience includes  IMF missions  to more  than 15
-countries,  covering  IMF  program negotiations,  surveillance  and  technical
-assistance.* 
-
-*Missions to China, Hong-Kong SAR, India, Israel, Malaysia, Peru, etc. For more details, see [here](https://romainlafarguette.github.io/missions/)* 
+*For then full list of missions and responsibilities, please see [here](https://romainlafarguette.github.io/missions/)* 
 
 ## Education
 
