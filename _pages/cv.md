@@ -28,7 +28,7 @@ Pdf version [here](https://github.com/romainlafarguette/lafarguette-resume/blob/
 
 *IMF missions to more than 20 countries, including as mission chief, leading teams of three to four people on IMF technical assistance missions.* 
 
-*For then full list of missions and responsibilities, please see [here](https://romainlafarguette.github.io/missions/)* 
+*For the full list of missions and responsibilities, please visit [this webpage](https://romainlafarguette.github.io/missions/)* 
 
 ## Education
 
