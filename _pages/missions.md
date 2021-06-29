@@ -5,6 +5,10 @@ permalink: /missions/
 author_profile: true
 ---
 
+### United Arab Emirates (2021, co-mission chief, team of seven people)
+* IMF technical assistance mission with the Central Bank of the United Arab Emirates
+  * Operational framework for liquidity management
+
 ### Namibia (2021, mission chief, team of four people)
 * IMF technical assistance mission with the Central Bank of Namibia
   * Liquidity forecasting
