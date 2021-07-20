@@ -5,20 +5,26 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
+### Liquidity Forecasting for Central Banks Operating Fixed Exchange Rate Arrangements (2021)
+* IMF Middle East Center for Economics and Finance, Kuwait
+
+### Foreign Exchange Interventions Strategies for Central Banks (2021)
+* IMF Joint Vienna Institute (Caucasus, Central Asia, Belarus, Moldova and Mongolia Practionners), Vienna
+
 ### Forecasting with Quantile Regressions (2020) 
-* Course for the South East Asian Central Banks (SEACEN) Research and Training
-Centre
+* South East Asian Central Banks (SEACEN) Research and Training Centre
   * [Slides: theory](https://github.com/romainlafarguette/romainlafarguette.github.io/blob/master/files/GaR_SEACEN_Theory.pdf)
   * [Slides: application](https://github.com/romainlafarguette/romainlafarguette.github.io/blob/master/files/GaR_SEACEN_Applications.pdf)
 
 
-### Clinic on Growth-at-Risk and Density Forecasting at the IMF (2019)
-* Course for the IMF Institute Capacity and Development (see SEACEN slides, updated)
+### Density Forecasting (2019)
+* IMF Institute Capacity and Development, Washington D.C. 
 
 
 ### Introduction to Python for IMF Economists (2019)
-* IMF European Department
+* IMF European Department, Washington D.C.
 
 
 ### Linear and Non-Linear Econometrics, Statistics, Macroeconomics (2010-2012)
-* ENSAE and Sciences Po Paris
+* ENSAE and Sciences Po, Paris

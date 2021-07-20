@@ -20,7 +20,7 @@ I  currently work  for  the Monetary  and Capital  Markets  department, Central 
    economists](https://romainlafarguette.github.io/software/), with a focus on
    density modeling and forecasting. You  can  find  the codes   on  my  [Github page](https://github.com/romainlafarguette)
 
-My recent research work is interested in:
+My recent research work focuses on:
 - Risk modeling and density forecasting
 - Central bank operations and monetary policy implementation
 - Stress-testing methods 
