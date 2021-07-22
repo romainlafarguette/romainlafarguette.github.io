@@ -13,7 +13,7 @@ author_profile: true
 * IMF Joint Vienna Institute (Caucasus, Central Asia, Belarus, Moldova and Mongolia Practionners), Vienna
 
 ### Forecasting with Quantile Regressions (2020) 
-* South East Asian Central Banks (SEACEN) Research and Training Centre
+* South East Asian Central Banks (SEACEN) Research and Training Centre, Kuala Lumpur
   * [Slides: theory](https://github.com/romainlafarguette/romainlafarguette.github.io/blob/master/files/GaR_SEACEN_Theory.pdf)
   * [Slides: application](https://github.com/romainlafarguette/romainlafarguette.github.io/blob/master/files/GaR_SEACEN_Applications.pdf)
 
