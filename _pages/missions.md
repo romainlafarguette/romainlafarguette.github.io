@@ -8,7 +8,7 @@ author_profile: true
 ### United Arab Emirates (2021, co-mission chief, team of seven people)
 * IMF technical assistance mission with the Central Bank of the United Arab Emirates
   * Operational framework for liquidity management, monetary operations
-    calibration, liquidity forecasting
+    calibration, liquidity forecasting and financial modeling
 
 ### Namibia (2021, mission chief, team of four people)
 * IMF technical assistance mission with the Central Bank of Namibia
@@ -34,15 +34,15 @@ author_profile: true
 
 ### Tunisia (2020)
 * IMF technical assistance mission with the Central Bank of Tunisia
-  * Liquidity forecasting
+  * Liquidity management and forecasting
 
 ### South Korea (2020)
-* IMF technical assistance mission 
-  * Foreign reserves management
+* IMF technical assistance mission to the Bank of Korea
+  * Foreign reserves management and portfolio management
 
 ### Morocco (2020)
 * IMF technical assistance mission to the Bank Al-Maghrib 
-  * Foreign exchange interventions
+  * Foreign exchange interventions and FX modeling
 
 ### Democratic Republic of Congo (2020)
 * IMF program negotiations 
@@ -51,7 +51,7 @@ author_profile: true
 
 ### People's Republic of China (2019, mission chief)
 * IMF technical assistance mission to the People's Bank of China 
-  * Financial modeling, model design and implementation on the ground
+  * Financial modeling and risk evaluation
 
 ### United States (2019)
 * IMF recruitment team for the Economist Program (EP) 
@@ -64,27 +64,25 @@ author_profile: true
 
 ### India, Philippines, Malaysia, Singapore (2019)
 * IMF technical outreach
-  * Outreach about the IMF Growth-at-Risk model to central banks in
-    the region and the Asian Development Bank
+  * Teaching density modeling to staff of central banks and the Asian Development Bank
 
 ### Israel (2019)
 * IMF Article IV 
-  * External sector
-  * Also supported the Bank of Israel with the implementation of a density
+  * Supported the Bank of Israel with the implementation of a density
     forecasting model
+  * Balance of payments analysis
 
 ### Albania (2018-2019)
-* IMF Post-Program Monitoring Report, Article IV
+* IMF Post-Program Monitoring, Article IV
   * Monetary, financial and real sectors
   * Four missions
 
 ### Peru (2018)
 * IMF Financial System Stability Assessment Program
-  * Using Growth-at-Risk for Macrofinancial Analysis and Forecasting. Application on Peru 
-  * Liquidity Management in Peruvian Money Markets: A Financial Stability
-      Perspective 
+  * Density modeling and systemic liquidity management
 
 ### People's Republic of China (2015)
 * European Central Bank, negotations mission
-  * Negotiations with the People's Bank of China in Beijing and Shanghai to acquire RMB for the FX reserves of the Eurosystem
+  * Negotiations with the People's Bank of China to build the RMB portfolio of
+    the Eurosystem
     
