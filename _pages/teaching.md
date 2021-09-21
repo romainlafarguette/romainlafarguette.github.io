@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Density Forecasting and Modeling (2021)
+* IMF Institute Capacity and Development, Washington D.C. 
+
+### Advanced Statistical Methods to Forecast Systemic Liquidity (2021)
+* IMF Technical Assistance Center in Central America, Guatemala 
 
 ### Liquidity Forecasting for Central Banks Operating Fixed Exchange Rate Arrangements (2021)
 * IMF Middle East Center for Economics and Finance, Kuwait
@@ -17,14 +22,11 @@ author_profile: true
   * [Slides: theory](https://github.com/romainlafarguette/romainlafarguette.github.io/blob/master/files/GaR_SEACEN_Theory.pdf)
   * [Slides: application](https://github.com/romainlafarguette/romainlafarguette.github.io/blob/master/files/GaR_SEACEN_Applications.pdf)
 
-
-### Density Forecasting (2019)
+### Density Forecasting and Modeling (2019)
 * IMF Institute Capacity and Development, Washington D.C. 
-
 
 ### Introduction to Python for IMF Economists (2019)
 * IMF European Department, Washington D.C.
-
 
 ### Linear and Non-Linear Econometrics, Statistics, Macroeconomics (2010-2012)
 * ENSAE and Sciences Po, Paris
