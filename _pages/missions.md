@@ -5,6 +5,10 @@ permalink: /missions/
 author_profile: true
 ---
 
+### Algeria (2022, mission chief, team of five people)
+* IMF technical assistance mission with the Central Bank of Algeria
+  * Liquidity Forecasting
+
 ### United Arab Emirates (2021, co-mission chief, team of seven people)
 * IMF technical assistance mission with the Central Bank of the United Arab Emirates
   * Operational framework for liquidity management, monetary operations
