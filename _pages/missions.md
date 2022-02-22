@@ -25,7 +25,7 @@ author_profile: true
 ### Djibouti (2021, mission chief, team of four people)
 * IMF technical assistance mission with the Central Bank of Djibouti
   * Liquidity forecasting
-
+  
 ### Hong Kong SAR (2021)
 * IMF Financial System Stability Assessment Program with the Hong Kong SAR
   Monetary Authorities (HKMA)

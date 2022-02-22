@@ -38,7 +38,6 @@ representing the views of the IMF, its Executive Board, or member governments.
     * Please cite our working paper presenting the toolkit and applications Growth-at-Risk: Concept and Application in
       IMF Country Surveillance (2019), [IMF Working Paper No. 19/36](https://www.imf.org/en/Publications/WP/Issues/2019/02/21/Growth-at-Risk-Concept-and-Application-in-IMF-Country-Surveillance-46567)
 
-
 ### Distributional GaRCH model to design VaR-based FX Interventions for Central Banks
 * [Github repo](https://github.com/romainlafarguette/varfxi)
 * Python module to estimate conditional densities from a GaRCH model and design
@@ -53,15 +52,6 @@ representing the views of the IMF, its Executive Board, or member governments.
   Exchange Interventions Rules  for Central Banks: A  Risk-Based Framework", IMF
   Working Paper
 
-
-### Granular Instrumental Variables from Gabaix and Koijen (2020)
-* [Github repo](https://github.com/romainlafarguette/granulariv)
-* Python module to estimate the Granular Instrumental Variables from Gabaix
-  and Koijen (2020)
-  
-* The panel regressions are based on linearmodels from Kevin Sheppard
-
-
 ### Quantile Local Projections
 * [Github repo](https://github.com/romainlafarguette/quantileproj)  
 * Python module to estimate quantile local projections, and produce useful
@@ -73,6 +63,42 @@ representing the views of the IMF, its Executive Board, or member governments.
   * The quantile uncrossing part is based on either:
       * Chernozhukov et al. (2010) Quantile and Probability Curves Without Crossing, Econometrica
       * Schmidt and Zhu (2016), Quantile Spacings: A Simple Method for the Joint Estimation of Multiple Quantiles Without Crossing
+
+### Robust Density with Over-Parametrized Models
+* [Github repo](https://github.com/romainlafarguette/robustdensity)
+
+* Estimate a Conditional Skew Normal using robust estimators (Theil-Sen and Firth Logistic Regressions) and an over-parametrized model.
+
+* Useful for small and/or noisy observational samples
+
+* Working paper to arrive soon
+
+### Partial Least Squares Wrapper for Data Reduction based on Scikit
+* [Github repo](https://github.com/romainlafarguette/plswrapper)
+
+* A wrapper based on Scikit to use a Partial Least Square estimator to conduct
+  data reduction. 
+  
+* Includes new functionalities such as variable influence in the projection
+  computation, selection on top contributors and a few charting tools
+
+
+### Granular Instrumental Variables from Gabaix and Koijen (2020)
+* [Github repo](https://github.com/romainlafarguette/granulariv)
+* Python module to estimate the Granular Instrumental Variables from Gabaix
+  and Koijen (2020)
+  
+* The panel regressions are based on linearmodels from Kevin Sheppard
+
+### Quantile Spacing from Schmidt and Zhu (2016)
+* [Github repo](https://github.com/romainlafarguette/quantilespacing)
+* Python module to estimate Quantile Spacing from Schmidt and Zhu (2016)
+
+### Cluster Analysis Wrapper with Performance Metrics and Visualization Tools
+* [Github repo](https://github.com/romainlafarguette/clusterwrapper)
+* Python wrapper to conduct data clustering, with performance metrics and
+  visualization tools. Based on Scikit
+
 
 
 
