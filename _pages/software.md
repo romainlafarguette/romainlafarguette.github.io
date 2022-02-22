@@ -64,6 +64,17 @@ representing the views of the IMF, its Executive Board, or member governments.
       * Chernozhukov et al. (2010) Quantile and Probability Curves Without Crossing, Econometrica
       * Schmidt and Zhu (2016), Quantile Spacings: A Simple Method for the Joint Estimation of Multiple Quantiles Without Crossing
 
+
+### Conditional Density Projection via Quantile Regressions, Resampling and Multifit Models
+* [Github repo](https://github.com/romainlafarguette/gar)
+
+* Python module to project a conditional density using quantile regressions,
+  resampling and different density fit strategies (Resampling, Kernel,
+  Gaussian Mixtures, etc.)
+  
+* Working paper coming out soon
+
+
 ### Robust Density with Over-Parametrized Models
 * [Github repo](https://github.com/romainlafarguette/robustdensity)
 
