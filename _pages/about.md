@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the website of Romain Lafarguette (罗哲文), Ph.D., quant economist
+Welcome to the website of Romain Lafarguette (罗哲文), Ph.D., quant
 and technical assistance mission chief at the International  Monetary Fund  (IMF) in  Washington  D.C. 
 
 I  work  for the Monetary and Capital  Markets department of the IMF, in the
