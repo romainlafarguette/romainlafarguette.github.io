@@ -5,6 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Advanced Statistical Methods to Forecast Systemic Liquidity (2022)
+* IMF Center of Excellence in Finance, Kuwait
+
+### Advanced Statistical Methods to Forecast Systemic Liquidity (2022)
+* IMF Center of Excellence in Finance, Ljubljana
+
+### Advanced Statistical Methods to Forecast Systemic Liquidity (2022)
+* Caucasus, Central Asia, and Mongolia IMF Regional Capacity Development Center, Almaty
+
 ### Density Forecasting and Modeling (2021)
 * IMF Institute Capacity and Development, Washington D.C. 
 
