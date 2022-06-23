@@ -5,6 +5,11 @@ permalink: /missions/
 author_profile: true
 ---
 
+### Bosnia and Herzegovina (2022, mission chief, team of six people)
+* IMF technical assistance mission with the Central Bank of Bosnia and
+  Herzegovina
+  * Foreign reserves and risk management, risk modeling, institutional framework
+
 ### Algeria (2022, mission chief, team of five people)
 * IMF technical assistance mission with the Central Bank of Algeria
   * Liquidity Forecasting
