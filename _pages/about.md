@@ -9,9 +9,10 @@ redirect_from:
   - /about.html
 ---
 
+
 Welcome to the website of Romain Lafarguette (罗哲文), Ph.D., quantitative researcher (_quant_) at the Abu Dhabi Investment Authority (ADIA), the sovereign wealth fund of Abu Dhabi.
 
-I work in ADIA's "Q" team, where we develop systematic trading strategies, leveraging data science, statistics and machine learning. 
+I work for ADIA's "Q" team, where we develop systematic trading strategies, leveraging big data, statistics and machine learning. 
 
 I am specialized in:
 - Monetary and financial economics
