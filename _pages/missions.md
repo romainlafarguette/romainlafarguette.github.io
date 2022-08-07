@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-_These country missions were carried out when I was a staff at the International Monetary Fund._
+*These country missions have been carried out when I was a staff at the International Monetary Fund.*
 
 ### Bosnia and Herzegovina (2022, mission chief, team of six people)
 * IMF technical assistance mission with the Central Bank of Bosnia and
