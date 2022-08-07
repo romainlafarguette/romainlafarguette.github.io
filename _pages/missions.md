@@ -1,14 +1,21 @@
----
+'---
 layout: archive
 title: "Missions"
 permalink: /missions/
 author_profile: true
 ---
 
+
+_These country missions were carried out when I was a staff at the International Monetary Fund._
+
 ### Bosnia and Herzegovina (2022, mission chief, team of six people)
 * IMF technical assistance mission with the Central Bank of Bosnia and
   Herzegovina
   * Foreign reserves and risk management, risk modeling, institutional framework
+
+### Burundi (2022)
+* IMF technical assistance mission with the Central Bank of Burundi
+  * Monetary framework and monetary operations
 
 ### Algeria (2022, mission chief, team of five people)
 * IMF technical assistance mission with the Central Bank of Algeria

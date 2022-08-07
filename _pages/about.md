@@ -9,27 +9,20 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the website of Romain Lafarguette (罗哲文), Ph.D., technical assistance mission chief at the International  Monetary Fund  (IMF) in  Washington  D.C. 
+Welcome to the website of Romain Lafarguette (罗哲文), Ph.D., quantitative researcher ("quant") at the Abu Dhabi Investment Authority (ADIA), the sovereign wealth fund of Abu Dhabi.
 
-I  work  for the Monetary and Capital  Markets department of the IMF, in the
-division in charge of designing and supporting central bank operations worldwide. My responsibilities include:
-1. [IMF country missions](https://romainlafarguette.github.io/missions/),
-2. [Academic research](https://romainlafarguette.github.io/research/)
-   in financial economics and econometrics
-3. [Statistical software       development      for      central       banks      and
-   economists](https://romainlafarguette.github.io/software/), with a focus on
-   density modeling and forecasting. You  can  find  the codes   on  my  [Github page](https://github.com/romainlafarguette)
+I work in ADIA's "Q" team, where we develop systematic trading strategies, leveraging data science, statistics and machine learning. 
 
 I am specialized in:
-- Central bank operations and monetary policy implementation
-- Risk modeling and density forecasting
-- Stress-testing methods 
+- Monetary and financial economics
+- Central banking operations
+- Stress-testing
 
+I combine technical skills in modeling, programming, and finance with a 10-year international policy experience with the International Monetary Fund and the European Central Bank. I have done missions to more than 25 countries, covering monetary and financial issues, on technical assistance, IMF financing programs, and surveillance. I also led teams of 3 to 7 people on technical assistance missions to central banks. 
+ 
 I am very active on [Github](https://github.com/romainlafarguette). You can
 also find me on [LinkedIn](https://www.linkedin.com/in/romain-lafarguette-罗哲
 文-24482a17/), [Vox](http://www.voxeu.org/person/romain-lafarguette) and
 [IDEAS/RePEc](https://ideas.repec.org/f/pla661.html)  
 
-**Disclaimer**: This  is my private website.  The views expressed here  are my
-own and do  not necessarily reflect those of the  International Monetary Fund,
-its management, its Executive Board, or member governments.
+**Disclaimer**: This  is my private website.  The views expressed here are my own and do not necessarily reflect those of the institutions I am or have been affiliated with.
