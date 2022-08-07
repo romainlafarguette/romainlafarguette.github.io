@@ -10,8 +10,7 @@ sitemap: false
 ## Website Disclaimer
 
 ***The information, views and opinions contained  on this website are mine and do
-not necessarily reflect  the views and opinions of  the International Monetary
-Fund, its management or its Executive Board, nor of any  institutions  I  am
+not necessarily reflect  the views and opinions of the institutions I  am
 currently  affiliated  with  or have  been affiliated with.***
 
 ## Copyrights
