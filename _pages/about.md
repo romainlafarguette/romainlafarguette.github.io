@@ -10,17 +10,18 @@ redirect_from:
 ---
 
 
-Welcome to the website of Romain Lafarguette (罗哲文), Ph.D., quantitative researcher (_quant_) at the Abu Dhabi Investment Authority (ADIA), the sovereign wealth fund of Abu Dhabi.
+Welcome to the website of Romain Lafarguette (罗哲文), Ph.D., buy-side quant at the Abu Dhabi Investment Authority (ADIA), the sovereign wealth fund of Abu Dhabi.
 
 I work for ADIA's "Q" team, where we develop systematic trading strategies, leveraging big data, statistics and machine learning. 
 
 I am specialized in:
 - Macro quantitative modeling
 - Density modeling and forecasting
-- Central banking
-- Stress-testing
+- Central banking and monetary policy
 
-I combine technical skills in modeling, programming, and finance with a 10-year international policy experience with the International Monetary Fund and the European Central Bank. I have done missions to more than 25 countries, covering monetary and financial issues, on technical assistance, IMF financing programs, and surveillance. I also led teams of 3 to 7 people on technical assistance missions to central banks. 
+I combine technical skills in modeling, programming, and finance with a 10-year international policy experience with the International Monetary Fund and the European Central Bank.
+
+I have done missions to more than 25 countries, covering monetary and financial issues, on technical assistance, IMF financing programs, and surveillance. I also led teams of 3 to 7 people on technical assistance missions to central banks. 
  
 I am very active on [Github](https://github.com/romainlafarguette). You can
 also find me on [LinkedIn](https://www.linkedin.com/in/romain-lafarguette-罗哲
