@@ -5,8 +5,17 @@ permalink: /missions/
 author_profile: true
 ---
 
+_As IMF consultant:_
 
-_These country missions have been carried out when I was a staff at the International Monetary Fund._
+### IMF Singapore Training Institute (2023)
+* IMF 1-week training on FX Intervention Rules: A Risk-Based Framework
+  * Training in statistics/econometrics, central banking and programming (including Python workshop) 
+
+### IMF Singapore Training Institute (2022)
+* IMF 1-week training on Forecasting Framework Central Bank Systemic Liquidity
+  * Training in statistics/econometrics, central banking and programming (including workshop) 
+
+_As IMF staff:_
 
 ### Bosnia and Herzegovina (2022, mission chief, team of six people)
 * IMF technical assistance mission with the Central Bank of Bosnia and

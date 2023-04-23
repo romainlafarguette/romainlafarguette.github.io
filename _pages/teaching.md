@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### FX Intervention Rules: A Risk-Based Framework (2023)
+* IMF Singapore Training Institute, Singapore
+
 ### Forecasting Framework Central Bank Systemic Liquidity (2022)
 * IMF Singapore Training Institute, Singapore
 
