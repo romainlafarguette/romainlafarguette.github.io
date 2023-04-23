@@ -5,7 +5,7 @@ permalink: /missions/
 author_profile: true
 ---
 
-_As IMF consultant:_
+_As an IMF consultant:_
 
 ### Singapore (2023)
 * IMF 1-week training on FX Intervention Rules: A Risk-Based Framework with the IMF Singapore Training Institute (STI)
@@ -18,7 +18,7 @@ _As IMF consultant:_
   * 16 participants from 12 central banks
 
 
-_As IMF staff:_
+_As an IMF staff:_
 
 ### Bosnia and Herzegovina (2022, mission chief, team of six people)
 * IMF technical assistance mission with the Central Bank of Bosnia and
