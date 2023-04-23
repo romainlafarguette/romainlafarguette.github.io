@@ -19,7 +19,7 @@ I am specialized in:
 - Density modeling and forecasting
 - Central banking and monetary policy
 
-I am a former IMF technical assistance mission chief and ECB market operations expert. I combine technical skills in modeling, programming, and finance with a 10-year international policy experience in a wide-range of countries and issues.
+I am a former IMF technical assistance mission chief and ECB market operations expert. I combine technical skills in modeling, programming, and finance with a 10-year international policy experience on a wide-range of countries and issues.
 
 I have done missions to more than 25 countries, covering monetary and financial issues, on technical assistance, IMF financing programs, and surveillance. I also led teams of 3 to 7 people on technical assistance missions to central banks. 
 

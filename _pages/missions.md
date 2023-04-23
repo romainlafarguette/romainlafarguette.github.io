@@ -7,13 +7,16 @@ author_profile: true
 
 _As IMF consultant:_
 
-### IMF Singapore Training Institute (2023)
-* IMF 1-week training on FX Intervention Rules: A Risk-Based Framework
-  * Training in statistics/econometrics, central banking and programming (including Python workshop) 
+### Singapore (2023)
+* IMF 1-week training on FX Intervention Rules: A Risk-Based Framework with the IMF Singapore Training Institute (STI)
+  * Training in statistics/econometrics, central banking and programming (including Python workshops) 
+  * 29 participants from 14 central banks
 
-### IMF Singapore Training Institute (2022)
-* IMF 1-week training on Forecasting Framework Central Bank Systemic Liquidity
-  * Training in statistics/econometrics, central banking and programming (including workshop) 
+### Singapore (2022)
+* IMF 1-week training on Forecasting Framework Central Bank Systemic Liquidity with the IMF Singapore Training Institute (STI)
+  * Training in statistics/econometrics, central banking and programming (including workshops)
+  * 16 participants from 12 central banks
+
 
 _As IMF staff:_
 
