@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Forecasting Framework Central Bank Systemic Liquidity (2022)
+* IMF Singapore Training Institute, Singapore
+
 ### Advanced Statistical Methods to Forecast Systemic Liquidity (2022)
 * IMF Center of Excellence in Finance, Kuwait
 
