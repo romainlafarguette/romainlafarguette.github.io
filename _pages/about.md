@@ -23,7 +23,7 @@ I am a former IMF technical assistance mission chief and ECB market operations e
 
 I have done missions to more than 25 countries, covering monetary and financial issues, on technical assistance, IMF financing programs, and surveillance. I also led teams of 3 to 7 people on technical assistance missions to central banks. 
 
-I hold a Ph.D. in economics from Peking University and Paris School of Economics, a master degree in applied mathematics and statistics from ENSAE ParisTech, a master in economics from Paris School of Economics and a master in philosophy of sciences and epistemology from University Paris Sorbonne. I am a normalien, former student of the Ecole Normale Superieure Paris-Saclay. I speak fluently English and Chinese Mandarin. I am a native French-speaker. 
+I hold a Ph.D. in economics from Peking University and Paris School of Economics, a master degree in applied mathematics and statistics from ENSAE ParisTech, and a master in philosophy from University Paris Sorbonne. I am a normalien, former student of the Ecole Normale Superieure Paris-Saclay. I speak fluently English and Chinese Mandarin. I am a native French-speaker. 
 
 I am very active on [Github](https://github.com/romainlafarguette). You can
 also find me on [LinkedIn](https://www.linkedin.com/in/romain-lafarguette-罗哲
