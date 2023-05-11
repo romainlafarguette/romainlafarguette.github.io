@@ -26,11 +26,6 @@ I  combine technical  skills  in  modeling, programming,  and  finance with  a
 10-year  international  macro-financial   experience  with  the  International
 Monetary Fund and the European Central Bank.
 
-I am a former IMF technical assistance mission chief and ECB market operations
-expert. I combine technical skills  in modeling, programming, and finance with
-a 10-year  international policy  experience on a  wide-range of  countries and
-macrofinancial issues.
-
 I  have  done missions  to  more  than  25  countries, covering  monetary  and
 financial  issues,  on  technical  assistance,  IMF  financing  programs,  and
 surveillance.   I also  led teams  of 3  to 7  people on  technical assistance
@@ -38,7 +33,9 @@ missions to central banks.
 
 I hold a Ph.D.  in financial economics from Peking University and Paris School
 of Economics, a master degree in applied mathematics and statistics from ENSAE
-ParisTech. I  am a normalien, former  student of the Ecole  Normale Superieure
+ParisTech.
+
+I  am a normalien, former  student of the Ecole  Normale Superieure
 Paris-Saclay.  I  speak fluently English and  Chinese Mandarin. I am  a native
 French-speaker.
 
@@ -47,6 +44,4 @@ also find me on [LinkedIn](https://www.linkedin.com/in/romain-lafarguette-罗哲
 文-24482a17/), [Vox](http://www.voxeu.org/person/romain-lafarguette) and
 [IDEAS/RePEc](https://ideas.repec.org/f/pla661.html)  
 
-**Disclaimer**: This is  my private website.  The views expressed  here are my
-own and  do not necessarily reflect  those of the institutions  I am currently
-affiliated with or have been affiliated with.  {: .notice}
+**Disclaimer**: This is  my private website.  The views expressed  here are my own and  do not necessarily reflect  those of the institutions  I am currently affiliated with or have been affiliated with.  {: .notice}
