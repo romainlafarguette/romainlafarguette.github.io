@@ -14,9 +14,9 @@ Welcome to the  website of Romain Lafarguette (罗哲文),  Ph.D., buy-side quan
 at the Abu Dhabi Investment Authority (ADIA), the sovereign wealth fund of Abu
 Dhabi.
 
-I  am part  of ADIA's  quant team  ("Q").  I  work on  multi-assets allocation
-(strategic  and  tactical),  portfolio  construction   as  well  as  on  alpha
-generation for systematic trading.
+I am part of ADIA's quant team  ("Q").  I work on assets allocation (strategic
+and tactical horizons), portfolio construction  as well as on alpha generation
+for systematic trading.
 
 I use  alternative and standard  data, statistics (frequentist  and Bayesian),
 and machine learning, mostly in the time series space.  I develop Python tools
