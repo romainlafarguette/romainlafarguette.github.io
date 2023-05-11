@@ -7,7 +7,26 @@ sitemap: false
 ---
 
 
-### Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2021)
+### Technology and the Geography of the Foreign Exchange Market (2023) 
+[Journal of International Money and Finance, 131-2023](https://www.sciencedirect.com/science/article/abs/pii/S0261560623000037) with Barry
+Eichengreen (Berkeley), Arnaud Mehl (ECB) and M. Minesso (ECB)
+
+March 2016 NBER digest, Vox Column and press coverage: Les Echos.
+
+*We analyze the impact of technology  on the production and trade in services,
+focusing on  the location of foreign  exchange transactions and the  effect of
+submarine  fiber-optic  cable  connections. Cable  connections  between  local
+markets and  major financial  centers reduce the  costs of  trading currencies
+locally and  increase the share of  currency transactions taking place  in the
+issuing  country. But  they  also  attenuate the  effect  of existing  spatial
+frictions that prevent transactions from  moving offshore to take advantage of
+agglomeration  economies  and  thick-market   advantages  of  major  financial
+centers. In practice, this second effect dominates. Our estimates suggest that
+the  advent of  cable  connections boosted  the share  in  global turnover  of
+London, the world’s largest trading venue, by as much as one-third.*
+
+
+### Macrofinancial Feedback, Bank Stress Testing and Capital Surcharges (2023)
 With Tobias Adrian (IMF) and Jose Berrospide (Federal
 Reserve Board). Draft available soon. 
 
@@ -138,32 +157,6 @@ consistent with the “thick-skinned” hypothesis. This  is in line with the vi
 that  technology  eases  access  to information  and  reduces  trend-following
 behavior. According to our estimates, cable connections reduce the reaction of
 exchange rates to U.S.  monetary policy news by 50 to 80 percent.*
-
-
-### Cables, Sharks and Servers: Technology and the Geography of the Foreign Exchange Market (2016) 
-[NBER working paper No. 21884](https://www.nber.org/papers/w21884) with Barry
-Eichengreen (Berkeley) and Arnaud Mehl (ECB)
-
-March 2016 NBER digest, Vox Column and press coverage: Les Echos.
-
-*We  analyze the  impact of  technology on  production and  trade in  services,
-focusing on the foreign exchange  market.  We identify exogenous technological
-changes by  the connection of  countries to submarine fiber-optic  cables used
-for electronic  trading, but which were  not laid for purposes  related to the
-foreign exchange market.   We estimate the impact of cable  connections on the
-share of  offshore foreign  exchange transactions.  Cable  connections between
-local markets  and matching servers in  the major financial centers  lower the
-fixed costs  of trading currencies and  increase the share of  currency trades
-occurring onshore.   At the same time,  however, they attenuate the  effect of
-standard  spatial frictions  such  as distance,  local  market liquidity,  and
-restrictive regulations that otherwise prevent transactions from moving to the
-major  financial  centers.   Our  estimates suggest  that  the  second  effect
-dominates. Technology  dampens the  impact of  spatial frictions  by up  to 80
-percent  and increases,  in net  terms, the  share of  offshore trading  by 21
-percentage points.   Technology also  has economically  important implications
-for  the  distribution  of  foreign  exchange  transactions  across  financial
-centers, boosting the share in global  turnover of London, the world’s largest
-trading venue, by as much as one-third.*
 
 
 ### Understanding Household Savings in China: the Role of the Housing Market & Borrowing Constraints (2013) 
