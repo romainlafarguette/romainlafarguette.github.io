@@ -5,7 +5,7 @@ permalink: /missions/
 author_profile: true
 ---
 
-_As an IMF consultant:_
+_As an IMF external short-term expert (STX):_
 
 ### Singapore (2023)
 * IMF 1-week training on FX Intervention Rules: A Risk-Based Framework with the IMF Singapore Training Institute (STI)
@@ -16,6 +16,7 @@ _As an IMF consultant:_
 * IMF 1-week training on Forecasting Framework Central Bank Systemic Liquidity with the IMF Singapore Training Institute (STI)
   * Training in statistics/econometrics, central banking and programming (including workshops)
   * 16 participants from 12 central banks
+
 
 
 _As an IMF staff:_
