@@ -15,8 +15,7 @@ at the Abu Dhabi Investment Authority (ADIA), the sovereign wealth fund of Abu
 Dhabi.
 
 I am part of ADIA's quant team  ("Q").  I work on assets allocation (strategic
-and tactical horizons), portfolio construction  as well as on alpha generation
-for systematic trading.
+and tactical horizons), and on alpha generation for systematic trading.
 
 I use  alternative and standard  data, statistics (frequentist  and Bayesian),
 and machine learning, mostly in the time series space.  I develop Python tools
@@ -32,7 +31,7 @@ surveillance.   I also  led teams  of 3  to 7  people on  technical assistance
 missions to central banks.
 
 I hold a Ph.D.  in financial economics from Peking University and Paris School
-of Economics, a master degree in applied mathematics and statistics from ENSAE
+of Economics, and a master degree in applied mathematics and statistics from ENSAE
 ParisTech.
 
 I  am a normalien, former  student of the Ecole  Normale Superieure

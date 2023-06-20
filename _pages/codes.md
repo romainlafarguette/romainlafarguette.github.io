@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Statistical Software Development"
-permalink: /software/
+title: "Codes"
+permalink: /codes/
 author_profile: true
 sitemap: false
 ---

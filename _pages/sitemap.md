@@ -13,7 +13,7 @@ Research: https://romainlafarguette.github.io/research/
 
 Country Missions: https://romainlafarguette.github.io/country/
 
-Software: https://romainlafarguette.github.io/software/
+Codes: https://romainlafarguette.github.io/codes/
 
 Teaching: https://romainlafarguette.github.io/teaching/
 
