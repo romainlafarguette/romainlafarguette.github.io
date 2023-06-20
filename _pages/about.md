@@ -34,7 +34,7 @@ I hold a Ph.D.  in financial economics from Peking University and Paris School
 of Economics, and a master degree in applied mathematics and statistics from ENSAE
 ParisTech.
 
-I  am a normalien, former  student of the Ecole  Normale Superieure
+I  am a "normalien", former  student of the Ecole  Normale Superieure
 Paris-Saclay.  I  speak fluently English and  Chinese Mandarin. I am  a native
 French-speaker.
 
