@@ -8,7 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+ 
+ 
 
 Welcome to the website of Romain Lafarguette (罗哲文),  Ph.D., quant strategist
 at the Government of Singapore Investment Corporation (GIC), the sovereign wealth fund of Singapore.
