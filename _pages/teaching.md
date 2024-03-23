@@ -8,7 +8,7 @@ author_profile: true
 ### FX Intervention Rules: A Risk-Based Framework (2023)
 * IMF Singapore Training Institute, Singapore
   * 29 participants from 14 central banks; 1-week training in Singapore
-  * Modeling under Python, with a package we developped with [Amine Raboun](https://amineraboun.github.io/): [pypi link](https://pypi.org/project/varfxi/). Link to the [course](https://amineraboun.github.io/STI_FX_Intervention/docs/index.html)
+  * Modeling under Python, with a package we developped with [Amine Raboun](https://amineraboun.github.io/): [pypi link](https://pypi.org/project/varfxi/). Link to the [course](https://romainlafarguette.github.io/fxinterventions/docs/index.html)
 
 ### Forecasting Framework Central Bank Systemic Liquidity (2022)
 * IMF Singapore Training Institute, Singapore

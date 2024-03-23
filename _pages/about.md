@@ -11,7 +11,7 @@ redirect_from:
  
     
   
-Welcome to the website of Romain Lafarguette (罗哲文),  Ph.D., senior vice president quant strategist
+Welcome to the website of Romain Lafarguette (罗哲文),  Ph.D., senior vice president, quant strategist
 at the Government of Singapore Investment Corporation (GIC), the sovereign wealth fund of Singapore.
 
 I work for the Fixed Income and Multi-Assets (FIMA) department of GIC, where I develop quantitative models for portfolio construction and assets allocation, supporting the daily management of USD multi-billions portfolios. 
