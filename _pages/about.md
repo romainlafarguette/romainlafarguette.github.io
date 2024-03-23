@@ -27,7 +27,7 @@ financial  issues,  on  technical  assistance,  IMF  financing  programs,  and
 surveillance.   I also  led teams  of 3  to 7  people on  technical assistance
 missions to central banks.
 
-I taught quantitative financial methods, quantitative macroeconomics and inferential statistics to government officials, IMF colleagues, Ph.D. and master students. 
+I also teach quantitative financial methods, quantitative macroeconomics and inferential statistics to government officials, IMF colleagues, Ph.D. and master students. 
 
 I hold a Ph.D.  in financial economics from Peking University and Paris School
 of Economics, and a master degree in applied mathematics and statistics from ENSAE
