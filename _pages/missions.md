@@ -7,6 +7,10 @@ author_profile: true
 
 _As an IMF external short-term expert (STX):_
 
+### Mauritania (2023)
+* IMF technical assistance mission with the Central Bank of Mauritania
+  * Liquidity forecasting, monetary framework and monetary operations
+ 
 ### Singapore (2023)
 * IMF 1-week training on FX Intervention Rules: A Risk-Based Framework with the IMF Singapore Training Institute (STI)
   * Training in statistics/econometrics, central banking and programming (including Python workshops) 
@@ -16,7 +20,6 @@ _As an IMF external short-term expert (STX):_
 * IMF 1-week training on Forecasting Framework Central Bank Systemic Liquidity with the IMF Singapore Training Institute (STI)
   * Training in statistics/econometrics, central banking and programming (including workshops)
   * 16 participants from 12 central banks
-
 
 
 _As an IMF staff:_
@@ -32,7 +35,7 @@ _As an IMF staff:_
 
 ### Algeria (2022, mission chief, team of five people)
 * IMF technical assistance mission with the Central Bank of Algeria
-  * Liquidity Forecasting
+  * Liquidity forecasting
 
 ### United Arab Emirates (2021, co-mission chief, team of seven people)
 * IMF technical assistance mission with the Central Bank of the United Arab Emirates
