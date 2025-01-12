@@ -9,12 +9,12 @@ redirect_from:
   - /about.html
 ---
  
-Welcome to the website of Romain Lafarguette (罗哲文),  Ph.D., lead quant strategist, senior vice president
-at the Government of Singapore Investment Corporation (GIC), the sovereign wealth fund of Singapore.
+Welcome to the website of Romain Lafarguette (罗哲文), lead quant strategist, senior vice-president
+at GIC (Government of Singapore Investment Corporation), the sovereign wealth fund of Singapore.
 
-I manage a team of 6 quants in global macro modeling and asset allocation. We support the management and allocation of USD multi-billions portfolios in multi-assets space for GIC Fixed Income and Multi-Assets (FIMA) department.  
+I manage a team of 6 quants in asset allocation and global macro modeling for GIC Fixed Income and MultiAssets (FIMA) department. We supports GIC portfolio managers in optimizing and allocating multi-billions portfolios; we also carry macro signals research for systematic and discretionary trading. 
 
-We design and implement quantitative macroeconomic signals (forecasting, nowcasting, regimes modeling, etc.) and leverage density modeling and optimization methods for asset allocation. We use  alternative and standard  data, statistics (frequentist  and Bayesian), and machine learning, mostly in the time series space. We also handle backtesting, package deployment and some quant production-related issues. 
+As a quant, I design and implement quantitative macroeconomic signals (forecasting, nowcasting, regimes modeling, etc.) and leverage density modeling and optimization methods for asset allocation. I use  alternative and standard  data, statistics (frequentist  and Bayesian), and machine learning, mostly in the time series space. I also handle backtesting, package deployment and some quant production-related issues. 
 
 I  combine technical  skills  in  financial modeling, programming,  and  quantitative macroeconomics with more than 10-year operational experience with  [ADIA](https://www.adia.ae/) - the sovereign wealth fund of Abu Dhabi, the  [International
 Monetary Fund](https://www.imf.org/en/Home) in Washington D.C. and the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) in Frankfurt.
