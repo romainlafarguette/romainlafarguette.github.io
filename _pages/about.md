@@ -9,15 +9,12 @@ redirect_from:
   - /about.html
 ---
  
-    
-  
-Welcome to the website of Romain Lafarguette (罗哲文),  Ph.D., senior vice president, quant strategist
+Welcome to the website of Romain Lafarguette (罗哲文),  Ph.D., lead quant strategist, senior vice president
 at the Government of Singapore Investment Corporation (GIC), the sovereign wealth fund of Singapore.
 
-I work for the Fixed Income and Multi-Assets (FIMA) department of GIC, where I develop quantitative models for portfolio construction and assets allocation, supporting the daily management of USD multi-billions portfolios. 
+I manage a team of 6 quants in global macro modeling and asset allocation. We support the management and allocation of USD multi-billions portfolios in multi-assets space for GIC Fixed Income and Multi-Assets (FIMA) department.  
 
-I also design and implement quantitative macroeconomic signals (forecasting, nowcasting, regimes modeling, etc.) and leverage density modeling and optimization methods for asset allocation. I use  alternative and standard  data, statistics (frequentist  and Bayesian),
-and machine learning, mostly in the time series space. I also handle backtesting, package deployment and some quant production-related issues. 
+We design and implement quantitative macroeconomic signals (forecasting, nowcasting, regimes modeling, etc.) and leverage density modeling and optimization methods for asset allocation. We use  alternative and standard  data, statistics (frequentist  and Bayesian), and machine learning, mostly in the time series space. We also handle backtesting, package deployment and some quant production-related issues. 
 
 I  combine technical  skills  in  financial modeling, programming,  and  quantitative macroeconomics with more than 10-year operational experience with  [ADIA](https://www.adia.ae/) - the sovereign wealth fund of Abu Dhabi, the  [International
 Monetary Fund](https://www.imf.org/en/Home) in Washington D.C. and the [European Central Bank](https://www.ecb.europa.eu/home/html/index.en.html) in Frankfurt.
@@ -27,9 +24,9 @@ financial  issues,  on  technical  assistance,  IMF  financing  programs,  and
 surveillance.   I also  led teams  of 3  to 7  people on  technical assistance
 missions to central banks.
 
-I also teach quantitative financial methods, quantitative macroeconomics and inferential statistics to government officials, IMF colleagues, Ph.D. and master students. 
+I also taught quantitative financial methods, quantitative macroeconomics and inferential statistics to government officials and IMF staff. 
 
-I hold a Ph.D.  in financial economics from Peking University and Paris School
+I hold a Ph.D.  in financial economics from Peking University and the Paris School
 of Economics, and a master degree in applied mathematics and statistics from ENSAE
 ParisTech.
 
